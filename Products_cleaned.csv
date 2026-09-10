@@ -1,0 +1,2001 @@
+ProductID,SKU,Category,UnitPrice,Brand
+1,SKU-1,Electronics,8034,Softq
+2,SKU-2,Grocery,6037,Prime
+3,SKU-3,Electronics,6063,Nova
+4,SKU-4,Home Appliances,7843,Prime
+5,SKU-5,Home Appliances,582,Global
+6,SKU-6,Home Appliances,3912,Prime
+7,SKU-7,Furniture,4755,Prime
+8,SKU-8,Home Appliances,3849,Prime
+9,SKU-9,Electronics,8935,Elite
+10,SKU-10,Grocery,9051,Global
+11,SKU-11,Electronics,7264,Nova
+12,SKU-12,Home Appliances,4891,Nova
+13,SKU-13,Grocery,13476,Elite
+14,SKU-14,Electronics,4062,Nova
+15,SKU-15,Electronics,893,Global
+16,SKU-16,Furniture,10891,Prime
+17,SKU-17,Electronics,13714,Softq
+18,SKU-18,Electronics,8456,Elite
+19,SKU-19,Clothing,6463,Nova
+20,SKU-20,Clothing,10303,Softq
+21,SKU-21,Clothing,5422,Nova
+22,SKU-22,Grocery,7430,Nova
+23,SKU-23,Electronics,8308,Softq
+24,SKU-24,Furniture,5378,Prime
+25,SKU-25,Furniture,6912,Nova
+26,SKU-26,Furniture,10245,Nova
+27,SKU-27,Clothing,4166,Softq
+28,SKU-28,Grocery,5798,Prime
+29,SKU-29,Grocery,7970,Elite
+30,SKU-30,Electronics,13683,Prime
+31,SKU-31,Furniture,11517,Global
+32,SKU-32,Furniture,8726,Nova
+33,SKU-33,Grocery,4264,Elite
+34,SKU-34,Electronics,13126,Elite
+35,SKU-35,Furniture,1525,Softq
+36,SKU-36,Home Appliances,4462,Prime
+37,SKU-37,Furniture,1943,Prime
+38,SKU-38,Grocery,10418,Softq
+39,SKU-39,Furniture,602,Elite
+40,SKU-40,Home Appliances,10293,Global
+41,SKU-41,Home Appliances,12365,Softq
+42,SKU-42,Clothing,11678,Softq
+43,SKU-43,Clothing,910,Prime
+44,SKU-44,Clothing,8251,Softq
+45,SKU-45,Home Appliances,14227,Prime
+46,SKU-46,Clothing,2405,Softq
+47,SKU-47,Electronics,7063,Global
+48,SKU-48,Home Appliances,9241,Softq
+49,SKU-49,Grocery,4607,Nova
+50,SKU-50,Clothing,6464,Elite
+51,SKU-51,Home Appliances,1958,Nova
+52,SKU-52,Electronics,437,Elite
+53,SKU-53,Electronics,13884,Nova
+54,SKU-54,Clothing,5173,Global
+55,SKU-55,Home Appliances,9947,Elite
+56,SKU-56,Clothing,4178,Prime
+57,SKU-57,Electronics,10515,Elite
+58,SKU-58,Electronics,11944,Prime
+59,SKU-59,Home Appliances,14850,Softq
+60,SKU-60,Grocery,10657,Prime
+61,SKU-61,Electronics,13515,Global
+62,SKU-62,Grocery,5674,Softq
+63,SKU-63,Electronics,3429,Global
+64,SKU-64,Grocery,13142,Prime
+65,SKU-65,Grocery,8041,Softq
+66,SKU-66,Furniture,3231,Global
+67,SKU-67,Home Appliances,11120,Softq
+68,SKU-68,Electronics,14243,Prime
+69,SKU-69,Grocery,10353,Nova
+70,SKU-70,Clothing,5771,Global
+71,SKU-71,Grocery,12988,Elite
+72,SKU-72,Furniture,189,Nova
+73,SKU-73,Furniture,8998,Softq
+74,SKU-74,Clothing,1283,Global
+75,SKU-75,Furniture,10906,Softq
+76,SKU-76,Electronics,6579,Softq
+77,SKU-77,Furniture,5031,Softq
+78,SKU-78,Furniture,2166,Nova
+79,SKU-79,Grocery,14258,Nova
+80,SKU-80,Home Appliances,12939,Elite
+81,SKU-81,Electronics,9199,Global
+82,SKU-82,Furniture,14015,Nova
+83,SKU-83,Home Appliances,1908,Nova
+84,SKU-84,Furniture,13546,Softq
+85,SKU-85,Home Appliances,4058,Nova
+86,SKU-86,Grocery,7285,Softq
+87,SKU-87,Furniture,4159,Prime
+88,SKU-88,Clothing,8613,Global
+89,SKU-89,Home Appliances,1000,Global
+90,SKU-90,Grocery,14696,Elite
+91,SKU-91,Home Appliances,10445,Global
+92,SKU-92,Home Appliances,2622,Global
+93,SKU-93,Electronics,4104,Nova
+94,SKU-94,Home Appliances,11769,Nova
+95,SKU-95,Home Appliances,13971,Nova
+96,SKU-96,Clothing,14094,Elite
+97,SKU-97,Home Appliances,8335,Nova
+98,SKU-98,Home Appliances,8742,Prime
+99,SKU-99,Furniture,2834,Global
+100,SKU-100,Clothing,632,Global
+101,SKU-101,Clothing,11552,Softq
+102,SKU-102,Home Appliances,621,Global
+103,SKU-103,Grocery,14614,Nova
+104,SKU-104,Electronics,8172,Global
+105,SKU-105,Home Appliances,1480,Prime
+106,SKU-106,Electronics,3093,Global
+107,SKU-107,Grocery,9114,Prime
+108,SKU-108,Electronics,1862,Nova
+109,SKU-109,Electronics,3749,Softq
+110,SKU-110,Furniture,13723,Softq
+111,SKU-111,Home Appliances,1442,Elite
+112,SKU-112,Grocery,11493,Softq
+113,SKU-113,Furniture,2695,Elite
+114,SKU-114,Furniture,7827,Global
+115,SKU-115,Grocery,1638,Softq
+116,SKU-116,Home Appliances,2331,Global
+117,SKU-117,Home Appliances,3036,Prime
+118,SKU-118,Furniture,2051,Prime
+119,SKU-119,Grocery,4763,Elite
+120,SKU-120,Furniture,8516,Global
+121,SKU-121,Grocery,1445,Nova
+122,SKU-122,Grocery,5570,Prime
+123,SKU-123,Grocery,4544,Prime
+124,SKU-124,Clothing,2261,Elite
+125,SKU-125,Furniture,9827,Softq
+126,SKU-126,Electronics,9624,Global
+127,SKU-127,Electronics,7301,Elite
+128,SKU-128,Grocery,5085,Nova
+129,SKU-129,Furniture,738,Nova
+130,SKU-130,Grocery,10256,Global
+131,SKU-131,Electronics,6685,Global
+132,SKU-132,Grocery,3616,Prime
+133,SKU-133,Home Appliances,10192,Nova
+134,SKU-134,Grocery,5877,Softq
+135,SKU-135,Electronics,9000,Nova
+136,SKU-136,Furniture,6100,Global
+137,SKU-137,Clothing,347,Prime
+138,SKU-138,Furniture,8060,Global
+139,SKU-139,Electronics,7697,Nova
+140,SKU-140,Electronics,14525,Global
+141,SKU-141,Grocery,12702,Nova
+142,SKU-142,Clothing,4916,Prime
+143,SKU-143,Furniture,8750,Softq
+144,SKU-144,Grocery,14369,Elite
+145,SKU-145,Grocery,9606,Global
+146,SKU-146,Electronics,215,Softq
+147,SKU-147,Furniture,9952,Global
+148,SKU-148,Electronics,13512,Nova
+149,SKU-149,Electronics,6199,Softq
+150,SKU-150,Clothing,11191,Softq
+151,SKU-151,Furniture,4119,Nova
+152,SKU-152,Grocery,11094,Nova
+153,SKU-153,Electronics,13293,Nova
+154,SKU-154,Grocery,11969,Elite
+155,SKU-155,Electronics,6869,Elite
+156,SKU-156,Clothing,11911,Prime
+157,SKU-157,Grocery,8422,Prime
+158,SKU-158,Furniture,9315,Global
+159,SKU-159,Clothing,6511,Nova
+160,SKU-160,Home Appliances,7824,Elite
+161,SKU-161,Clothing,8364,Global
+162,SKU-162,Home Appliances,13111,Nova
+163,SKU-163,Clothing,1220,Prime
+164,SKU-164,Grocery,934,Prime
+165,SKU-165,Clothing,1192,Nova
+166,SKU-166,Electronics,12563,Global
+167,SKU-167,Clothing,3615,Softq
+168,SKU-168,Furniture,11365,Elite
+169,SKU-169,Electronics,1048,Elite
+170,SKU-170,Clothing,12479,Prime
+171,SKU-171,Furniture,11564,Prime
+172,SKU-172,Furniture,8429,Nova
+173,SKU-173,Clothing,9585,Prime
+174,SKU-174,Furniture,3305,Elite
+175,SKU-175,Furniture,13541,Global
+176,SKU-176,Home Appliances,6182,Elite
+177,SKU-177,Home Appliances,632,Softq
+178,SKU-178,Electronics,10854,Elite
+179,SKU-179,Grocery,10492,Elite
+180,SKU-180,Clothing,13920,Nova
+181,SKU-181,Grocery,11114,Prime
+182,SKU-182,Grocery,11514,Nova
+183,SKU-183,Home Appliances,8792,Nova
+184,SKU-184,Home Appliances,14811,Prime
+185,SKU-185,Grocery,12193,Softq
+186,SKU-186,Home Appliances,3281,Nova
+187,SKU-187,Clothing,9086,Elite
+188,SKU-188,Home Appliances,925,Softq
+189,SKU-189,Electronics,9374,Elite
+190,SKU-190,Grocery,11545,Prime
+191,SKU-191,Electronics,14962,Global
+192,SKU-192,Grocery,1214,Prime
+193,SKU-193,Clothing,9171,Nova
+194,SKU-194,Electronics,6977,Prime
+195,SKU-195,Furniture,3061,Softq
+196,SKU-196,Clothing,714,Global
+197,SKU-197,Home Appliances,10399,Prime
+198,SKU-198,Home Appliances,11501,Elite
+199,SKU-199,Home Appliances,1054,Softq
+200,SKU-200,Grocery,7803,Global
+201,SKU-201,Furniture,10155,Softq
+202,SKU-202,Furniture,1330,Nova
+203,SKU-203,Furniture,9878,Nova
+204,SKU-204,Electronics,7473,Softq
+205,SKU-205,Electronics,12977,Softq
+206,SKU-206,Home Appliances,715,Nova
+207,SKU-207,Grocery,11808,Global
+208,SKU-208,Clothing,1230,Nova
+209,SKU-209,Grocery,13927,Softq
+210,SKU-210,Furniture,9945,Global
+211,SKU-211,Electronics,2728,Prime
+212,SKU-212,Electronics,3171,Softq
+213,SKU-213,Grocery,7179,Global
+214,SKU-214,Grocery,4906,Elite
+215,SKU-215,Home Appliances,14250,Global
+216,SKU-216,Home Appliances,3400,Global
+217,SKU-217,Furniture,3681,Elite
+218,SKU-218,Home Appliances,2720,Elite
+219,SKU-219,Grocery,5547,Softq
+220,SKU-220,Clothing,350,Softq
+221,SKU-221,Home Appliances,10060,Softq
+222,SKU-222,Furniture,11804,Nova
+223,SKU-223,Electronics,2367,Softq
+224,SKU-224,Clothing,2348,Prime
+225,SKU-225,Furniture,14467,Global
+226,SKU-226,Furniture,12432,Nova
+227,SKU-227,Home Appliances,8504,Softq
+228,SKU-228,Home Appliances,8326,Elite
+229,SKU-229,Grocery,4947,Nova
+230,SKU-230,Furniture,5813,Elite
+231,SKU-231,Grocery,493,Nova
+232,SKU-232,Grocery,1191,Nova
+233,SKU-233,Clothing,3363,Softq
+234,SKU-234,Grocery,5867,Prime
+235,SKU-235,Grocery,5158,Prime
+236,SKU-236,Grocery,397,Softq
+237,SKU-237,Grocery,9956,Softq
+238,SKU-238,Home Appliances,3856,Prime
+239,SKU-239,Home Appliances,1286,Elite
+240,SKU-240,Clothing,13485,Nova
+241,SKU-241,Furniture,6593,Nova
+242,SKU-242,Furniture,5956,Global
+243,SKU-243,Home Appliances,12798,Global
+244,SKU-244,Clothing,11278,Nova
+245,SKU-245,Grocery,2202,Softq
+246,SKU-246,Electronics,2684,Nova
+247,SKU-247,Home Appliances,6898,Elite
+248,SKU-248,Home Appliances,1497,Nova
+249,SKU-249,Grocery,9166,Elite
+250,SKU-250,Home Appliances,11734,Softq
+251,SKU-251,Home Appliances,8800,Global
+252,SKU-252,Clothing,3748,Global
+253,SKU-253,Clothing,5245,Nova
+254,SKU-254,Furniture,3944,Global
+255,SKU-255,Clothing,5246,Softq
+256,SKU-256,Electronics,14402,Global
+257,SKU-257,Grocery,11503,Softq
+258,SKU-258,Furniture,12851,Softq
+259,SKU-259,Electronics,5464,Global
+260,SKU-260,Home Appliances,390,Softq
+261,SKU-261,Furniture,10954,Nova
+262,SKU-262,Furniture,12169,Nova
+263,SKU-263,Furniture,3651,Nova
+264,SKU-264,Clothing,2565,Nova
+265,SKU-265,Furniture,2976,Softq
+266,SKU-266,Grocery,9450,Nova
+267,SKU-267,Electronics,9389,Nova
+268,SKU-268,Home Appliances,9375,Prime
+269,SKU-269,Grocery,10457,Softq
+270,SKU-270,Home Appliances,778,Elite
+271,SKU-271,Furniture,13575,Global
+272,SKU-272,Furniture,3776,Global
+273,SKU-273,Home Appliances,11936,Nova
+274,SKU-274,Electronics,7004,Global
+275,SKU-275,Electronics,14094,Elite
+276,SKU-276,Grocery,10885,Global
+277,SKU-277,Clothing,14755,Prime
+278,SKU-278,Clothing,6280,Elite
+279,SKU-279,Grocery,2081,Nova
+280,SKU-280,Home Appliances,11058,Prime
+281,SKU-281,Electronics,7517,Elite
+282,SKU-282,Electronics,3243,Elite
+283,SKU-283,Electronics,13210,Nova
+284,SKU-284,Grocery,11602,Nova
+285,SKU-285,Grocery,10396,Prime
+286,SKU-286,Grocery,9998,Elite
+287,SKU-287,Clothing,437,Global
+288,SKU-288,Clothing,12020,Softq
+289,SKU-289,Furniture,4038,Global
+290,SKU-290,Electronics,11185,Global
+291,SKU-291,Electronics,4039,Elite
+292,SKU-292,Grocery,1645,Global
+293,SKU-293,Electronics,5493,Nova
+294,SKU-294,Clothing,225,Elite
+295,SKU-295,Grocery,5090,Prime
+296,SKU-296,Clothing,14841,Global
+297,SKU-297,Grocery,10898,Global
+298,SKU-298,Furniture,4924,Global
+299,SKU-299,Furniture,14243,Prime
+300,SKU-300,Home Appliances,6221,Nova
+301,SKU-301,Clothing,10754,Elite
+302,SKU-302,Clothing,2619,Global
+303,SKU-303,Clothing,10901,Nova
+304,SKU-304,Furniture,7887,Softq
+305,SKU-305,Electronics,9849,Prime
+306,SKU-306,Furniture,11450,Prime
+307,SKU-307,Home Appliances,12789,Elite
+308,SKU-308,Grocery,918,Elite
+309,SKU-309,Electronics,2709,Elite
+310,SKU-310,Grocery,9676,Softq
+311,SKU-311,Furniture,1551,Global
+312,SKU-312,Home Appliances,6564,Global
+313,SKU-313,Home Appliances,8465,Global
+314,SKU-314,Home Appliances,3561,Global
+315,SKU-315,Clothing,10284,Elite
+316,SKU-316,Grocery,6060,Prime
+317,SKU-317,Clothing,5622,Elite
+318,SKU-318,Home Appliances,6607,Nova
+319,SKU-319,Electronics,6663,Softq
+320,SKU-320,Electronics,7505,Elite
+321,SKU-321,Clothing,12024,Prime
+322,SKU-322,Furniture,4491,Softq
+323,SKU-323,Electronics,8410,Elite
+324,SKU-324,Electronics,12226,Softq
+325,SKU-325,Electronics,9505,Nova
+326,SKU-326,Furniture,13535,Global
+327,SKU-327,Home Appliances,6334,Nova
+328,SKU-328,Furniture,463,Softq
+329,SKU-329,Home Appliances,7719,Nova
+330,SKU-330,Furniture,3563,Prime
+331,SKU-331,Home Appliances,9612,Elite
+332,SKU-332,Grocery,13603,Prime
+333,SKU-333,Furniture,10938,Prime
+334,SKU-334,Home Appliances,11654,Prime
+335,SKU-335,Furniture,4606,Elite
+336,SKU-336,Electronics,6690,Softq
+337,SKU-337,Clothing,6674,Nova
+338,SKU-338,Furniture,5910,Nova
+339,SKU-339,Clothing,621,Global
+340,SKU-340,Grocery,1678,Global
+341,SKU-341,Home Appliances,4462,Prime
+342,SKU-342,Furniture,10255,Elite
+343,SKU-343,Grocery,2694,Softq
+344,SKU-344,Furniture,1942,Softq
+345,SKU-345,Grocery,7293,Softq
+346,SKU-346,Home Appliances,8055,Elite
+347,SKU-347,Electronics,13309,Global
+348,SKU-348,Grocery,4827,Prime
+349,SKU-349,Home Appliances,9980,Softq
+350,SKU-350,Electronics,8941,Softq
+351,SKU-351,Electronics,9181,Softq
+352,SKU-352,Furniture,7256,Elite
+353,SKU-353,Clothing,2579,Prime
+354,SKU-354,Home Appliances,6088,Nova
+355,SKU-355,Clothing,6923,Softq
+356,SKU-356,Clothing,11873,Global
+357,SKU-357,Electronics,4270,Elite
+358,SKU-358,Clothing,10155,Softq
+359,SKU-359,Electronics,13779,Nova
+360,SKU-360,Grocery,13697,Elite
+361,SKU-361,Furniture,10509,Global
+362,SKU-362,Grocery,5630,Elite
+363,SKU-363,Electronics,8572,Softq
+364,SKU-364,Electronics,4342,Global
+365,SKU-365,Electronics,1866,Elite
+366,SKU-366,Home Appliances,8325,Elite
+367,SKU-367,Home Appliances,10721,Elite
+368,SKU-368,Home Appliances,12693,Softq
+369,SKU-369,Clothing,809,Nova
+370,SKU-370,Electronics,8484,Nova
+371,SKU-371,Electronics,11191,Global
+372,SKU-372,Furniture,5757,Softq
+373,SKU-373,Electronics,1711,Prime
+374,SKU-374,Electronics,13210,Softq
+375,SKU-375,Electronics,14481,Elite
+376,SKU-376,Electronics,3653,Global
+377,SKU-377,Home Appliances,6240,Prime
+378,SKU-378,Clothing,2064,Softq
+379,SKU-379,Clothing,9225,Nova
+380,SKU-380,Electronics,11562,Nova
+381,SKU-381,Home Appliances,1522,Global
+382,SKU-382,Clothing,3998,Softq
+383,SKU-383,Home Appliances,5713,Global
+384,SKU-384,Home Appliances,3586,Softq
+385,SKU-385,Home Appliances,9776,Nova
+386,SKU-386,Clothing,11505,Nova
+387,SKU-387,Clothing,2129,Softq
+388,SKU-388,Home Appliances,11955,Prime
+389,SKU-389,Electronics,13211,Softq
+390,SKU-390,Electronics,8436,Softq
+391,SKU-391,Furniture,14247,Nova
+392,SKU-392,Grocery,10043,Elite
+393,SKU-393,Electronics,500,Softq
+394,SKU-394,Home Appliances,3877,Global
+395,SKU-395,Furniture,14403,Nova
+396,SKU-396,Clothing,10912,Elite
+397,SKU-397,Clothing,11762,Elite
+398,SKU-398,Furniture,1993,Softq
+399,SKU-399,Home Appliances,14544,Prime
+400,SKU-400,Grocery,9369,Nova
+401,SKU-401,Grocery,1059,Elite
+402,SKU-402,Clothing,14632,Nova
+403,SKU-403,Furniture,4144,Elite
+404,SKU-404,Clothing,7418,Elite
+405,SKU-405,Home Appliances,12228,Nova
+406,SKU-406,Home Appliances,7213,Elite
+407,SKU-407,Grocery,8815,Global
+408,SKU-408,Furniture,9049,Elite
+409,SKU-409,Clothing,7711,Elite
+410,SKU-410,Clothing,7498,Prime
+411,SKU-411,Electronics,3404,Global
+412,SKU-412,Home Appliances,4671,Global
+413,SKU-413,Home Appliances,8861,Prime
+414,SKU-414,Clothing,9752,Nova
+415,SKU-415,Grocery,13192,Prime
+416,SKU-416,Grocery,8130,Global
+417,SKU-417,Furniture,14515,Softq
+418,SKU-418,Electronics,12366,Softq
+419,SKU-419,Home Appliances,12399,Nova
+420,SKU-420,Grocery,7727,Softq
+421,SKU-421,Furniture,1520,Global
+422,SKU-422,Grocery,11522,Global
+423,SKU-423,Electronics,7989,Nova
+424,SKU-424,Grocery,1520,Nova
+425,SKU-425,Grocery,10331,Elite
+426,SKU-426,Clothing,6001,Elite
+427,SKU-427,Furniture,10996,Nova
+428,SKU-428,Grocery,7378,Global
+429,SKU-429,Clothing,2550,Nova
+430,SKU-430,Clothing,12721,Prime
+431,SKU-431,Furniture,14408,Elite
+432,SKU-432,Grocery,8933,Nova
+433,SKU-433,Grocery,4602,Global
+434,SKU-434,Home Appliances,4083,Prime
+435,SKU-435,Home Appliances,4371,Nova
+436,SKU-436,Clothing,4310,Prime
+437,SKU-437,Home Appliances,7223,Prime
+438,SKU-438,Electronics,9034,Elite
+439,SKU-439,Electronics,11428,Global
+440,SKU-440,Furniture,9854,Prime
+441,SKU-441,Furniture,9915,Softq
+442,SKU-442,Clothing,2512,Global
+443,SKU-443,Clothing,2856,Elite
+444,SKU-444,Furniture,12014,Global
+445,SKU-445,Grocery,7490,Global
+446,SKU-446,Furniture,9292,Softq
+447,SKU-447,Clothing,9144,Nova
+448,SKU-448,Electronics,6703,Prime
+449,SKU-449,Clothing,13268,Prime
+450,SKU-450,Home Appliances,14637,Elite
+451,SKU-451,Home Appliances,11928,Global
+452,SKU-452,Electronics,5330,Elite
+453,SKU-453,Home Appliances,9910,Prime
+454,SKU-454,Clothing,11434,Elite
+455,SKU-455,Home Appliances,789,Global
+456,SKU-456,Home Appliances,6346,Global
+457,SKU-457,Clothing,1289,Global
+458,SKU-458,Furniture,10483,Prime
+459,SKU-459,Grocery,14852,Global
+460,SKU-460,Home Appliances,2406,Prime
+461,SKU-461,Furniture,9099,Softq
+462,SKU-462,Furniture,1227,Elite
+463,SKU-463,Grocery,3300,Prime
+464,SKU-464,Home Appliances,1363,Softq
+465,SKU-465,Grocery,4632,Nova
+466,SKU-466,Clothing,1196,Global
+467,SKU-467,Grocery,6145,Global
+468,SKU-468,Home Appliances,14025,Softq
+469,SKU-469,Electronics,10008,Prime
+470,SKU-470,Clothing,3836,Global
+471,SKU-471,Clothing,9337,Nova
+472,SKU-472,Home Appliances,12222,Softq
+473,SKU-473,Home Appliances,8062,Nova
+474,SKU-474,Home Appliances,5659,Elite
+475,SKU-475,Electronics,5423,Elite
+476,SKU-476,Grocery,9827,Elite
+477,SKU-477,Electronics,3937,Prime
+478,SKU-478,Grocery,9975,Global
+479,SKU-479,Furniture,14330,Softq
+480,SKU-480,Home Appliances,12937,Nova
+481,SKU-481,Clothing,10111,Global
+482,SKU-482,Furniture,4493,Prime
+483,SKU-483,Electronics,12734,Nova
+484,SKU-484,Grocery,10746,Elite
+485,SKU-485,Home Appliances,7432,Global
+486,SKU-486,Clothing,14952,Prime
+487,SKU-487,Furniture,3770,Global
+488,SKU-488,Home Appliances,12912,Elite
+489,SKU-489,Grocery,11933,Prime
+490,SKU-490,Clothing,1946,Elite
+491,SKU-491,Clothing,8124,Nova
+492,SKU-492,Electronics,12599,Softq
+493,SKU-493,Grocery,13070,Nova
+494,SKU-494,Grocery,11742,Global
+495,SKU-495,Electronics,14366,Elite
+496,SKU-496,Grocery,9758,Global
+497,SKU-497,Clothing,5248,Prime
+498,SKU-498,Clothing,8227,Nova
+499,SKU-499,Electronics,4157,Elite
+500,SKU-500,Home Appliances,7282,Elite
+501,SKU-501,Electronics,11438,Softq
+502,SKU-502,Home Appliances,1280,Elite
+503,SKU-503,Electronics,12408,Nova
+504,SKU-504,Clothing,1315,Elite
+505,SKU-505,Grocery,7267,Global
+506,SKU-506,Grocery,8171,Softq
+507,SKU-507,Electronics,4994,Global
+508,SKU-508,Home Appliances,6117,Softq
+509,SKU-509,Electronics,1554,Elite
+510,SKU-510,Grocery,3947,Prime
+511,SKU-511,Home Appliances,12067,Elite
+512,SKU-512,Home Appliances,10590,Prime
+513,SKU-513,Home Appliances,2953,Prime
+514,SKU-514,Grocery,11964,Elite
+515,SKU-515,Home Appliances,3399,Prime
+516,SKU-516,Furniture,2164,Global
+517,SKU-517,Clothing,5848,Prime
+518,SKU-518,Home Appliances,13273,Prime
+519,SKU-519,Home Appliances,11455,Prime
+520,SKU-520,Grocery,8608,Elite
+521,SKU-521,Clothing,12155,Global
+522,SKU-522,Clothing,1619,Global
+523,SKU-523,Electronics,7933,Softq
+524,SKU-524,Electronics,8347,Prime
+525,SKU-525,Electronics,3576,Elite
+526,SKU-526,Electronics,7944,Global
+527,SKU-527,Electronics,6941,Elite
+528,SKU-528,Electronics,14790,Global
+529,SKU-529,Clothing,13224,Global
+530,SKU-530,Electronics,12688,Global
+531,SKU-531,Electronics,8177,Softq
+532,SKU-532,Grocery,13152,Prime
+533,SKU-533,Clothing,6828,Prime
+534,SKU-534,Furniture,12820,Elite
+535,SKU-535,Clothing,5801,Global
+536,SKU-536,Electronics,12144,Global
+537,SKU-537,Clothing,4356,Softq
+538,SKU-538,Clothing,2142,Prime
+539,SKU-539,Clothing,13456,Softq
+540,SKU-540,Clothing,11179,Global
+541,SKU-541,Electronics,1416,Nova
+542,SKU-542,Home Appliances,4313,Global
+543,SKU-543,Furniture,4310,Global
+544,SKU-544,Furniture,1771,Elite
+545,SKU-545,Furniture,1372,Nova
+546,SKU-546,Clothing,5754,Softq
+547,SKU-547,Home Appliances,693,Nova
+548,SKU-548,Clothing,5990,Prime
+549,SKU-549,Clothing,4724,Softq
+550,SKU-550,Home Appliances,7293,Elite
+551,SKU-551,Furniture,390,Elite
+552,SKU-552,Clothing,2706,Prime
+553,SKU-553,Furniture,5596,Elite
+554,SKU-554,Home Appliances,14062,Nova
+555,SKU-555,Grocery,8717,Global
+556,SKU-556,Clothing,9614,Elite
+557,SKU-557,Grocery,7571,Prime
+558,SKU-558,Furniture,5296,Prime
+559,SKU-559,Electronics,1768,Nova
+560,SKU-560,Home Appliances,3832,Nova
+561,SKU-561,Grocery,1121,Prime
+562,SKU-562,Home Appliances,6310,Nova
+563,SKU-563,Grocery,449,Global
+564,SKU-564,Home Appliances,3392,Prime
+565,SKU-565,Grocery,874,Global
+566,SKU-566,Electronics,9746,Nova
+567,SKU-567,Electronics,5987,Softq
+568,SKU-568,Clothing,8364,Global
+569,SKU-569,Home Appliances,8853,Nova
+570,SKU-570,Clothing,13770,Softq
+571,SKU-571,Electronics,12303,Prime
+572,SKU-572,Electronics,12623,Elite
+573,SKU-573,Grocery,10423,Prime
+574,SKU-574,Grocery,9649,Nova
+575,SKU-575,Electronics,5960,Elite
+576,SKU-576,Clothing,120,Global
+577,SKU-577,Grocery,2699,Nova
+578,SKU-578,Home Appliances,1122,Softq
+579,SKU-579,Grocery,10241,Prime
+580,SKU-580,Clothing,2586,Elite
+581,SKU-581,Furniture,11493,Softq
+582,SKU-582,Clothing,14259,Prime
+583,SKU-583,Clothing,5000,Global
+584,SKU-584,Furniture,12036,Nova
+585,SKU-585,Grocery,1536,Elite
+586,SKU-586,Home Appliances,1766,Global
+587,SKU-587,Furniture,4972,Softq
+588,SKU-588,Electronics,10498,Prime
+589,SKU-589,Electronics,10487,Nova
+590,SKU-590,Clothing,8841,Elite
+591,SKU-591,Electronics,10537,Softq
+592,SKU-592,Grocery,11903,Global
+593,SKU-593,Furniture,1440,Nova
+594,SKU-594,Clothing,14952,Nova
+595,SKU-595,Grocery,9244,Prime
+596,SKU-596,Electronics,8049,Global
+597,SKU-597,Grocery,9471,Nova
+598,SKU-598,Electronics,13164,Elite
+599,SKU-599,Home Appliances,10409,Prime
+600,SKU-600,Grocery,7291,Nova
+601,SKU-601,Electronics,2730,Prime
+602,SKU-602,Clothing,5943,Global
+603,SKU-603,Electronics,7312,Nova
+604,SKU-604,Home Appliances,12570,Prime
+605,SKU-605,Furniture,6210,Elite
+606,SKU-606,Home Appliances,9248,Global
+607,SKU-607,Electronics,1571,Softq
+608,SKU-608,Furniture,1622,Elite
+609,SKU-609,Electronics,10615,Prime
+610,SKU-610,Furniture,1859,Elite
+611,SKU-611,Home Appliances,5498,Prime
+612,SKU-612,Home Appliances,1032,Elite
+613,SKU-613,Electronics,7807,Global
+614,SKU-614,Furniture,6972,Nova
+615,SKU-615,Furniture,13481,Prime
+616,SKU-616,Clothing,8875,Softq
+617,SKU-617,Home Appliances,14716,Softq
+618,SKU-618,Furniture,8902,Nova
+619,SKU-619,Clothing,4636,Prime
+620,SKU-620,Home Appliances,13238,Global
+621,SKU-621,Home Appliances,6162,Global
+622,SKU-622,Furniture,11533,Softq
+623,SKU-623,Home Appliances,9180,Prime
+624,SKU-624,Clothing,9504,Prime
+625,SKU-625,Clothing,3337,Prime
+626,SKU-626,Electronics,7503,Prime
+627,SKU-627,Furniture,7038,Prime
+628,SKU-628,Home Appliances,10094,Elite
+629,SKU-629,Furniture,299,Softq
+630,SKU-630,Clothing,4443,Global
+631,SKU-631,Home Appliances,11388,Global
+632,SKU-632,Clothing,12517,Global
+633,SKU-633,Home Appliances,13432,Prime
+634,SKU-634,Grocery,12384,Nova
+635,SKU-635,Clothing,6539,Global
+636,SKU-636,Grocery,1936,Global
+637,SKU-637,Clothing,774,Softq
+638,SKU-638,Clothing,13892,Prime
+639,SKU-639,Electronics,1439,Elite
+640,SKU-640,Grocery,12643,Global
+641,SKU-641,Furniture,4689,Softq
+642,SKU-642,Furniture,761,Nova
+643,SKU-643,Grocery,13925,Global
+644,SKU-644,Furniture,14954,Elite
+645,SKU-645,Home Appliances,14383,Softq
+646,SKU-646,Home Appliances,973,Global
+647,SKU-647,Furniture,9270,Softq
+648,SKU-648,Home Appliances,13608,Global
+649,SKU-649,Grocery,3864,Softq
+650,SKU-650,Grocery,7962,Prime
+651,SKU-651,Furniture,3550,Prime
+652,SKU-652,Furniture,6243,Prime
+653,SKU-653,Electronics,2530,Softq
+654,SKU-654,Home Appliances,9933,Nova
+655,SKU-655,Electronics,14640,Elite
+656,SKU-656,Home Appliances,1942,Softq
+657,SKU-657,Furniture,13884,Nova
+658,SKU-658,Electronics,14959,Global
+659,SKU-659,Electronics,5140,Prime
+660,SKU-660,Home Appliances,14634,Elite
+661,SKU-661,Furniture,5074,Prime
+662,SKU-662,Home Appliances,9000,Elite
+663,SKU-663,Furniture,7974,Global
+664,SKU-664,Furniture,670,Softq
+665,SKU-665,Electronics,2202,Global
+666,SKU-666,Home Appliances,7278,Softq
+667,SKU-667,Grocery,5741,Nova
+668,SKU-668,Electronics,3881,Prime
+669,SKU-669,Grocery,1553,Softq
+670,SKU-670,Furniture,8450,Elite
+671,SKU-671,Clothing,6206,Nova
+672,SKU-672,Clothing,6316,Prime
+673,SKU-673,Home Appliances,768,Softq
+674,SKU-674,Grocery,1112,Elite
+675,SKU-675,Clothing,11700,Elite
+676,SKU-676,Clothing,12739,Nova
+677,SKU-677,Electronics,4196,Softq
+678,SKU-678,Home Appliances,8068,Elite
+679,SKU-679,Furniture,5956,Nova
+680,SKU-680,Grocery,2859,Elite
+681,SKU-681,Electronics,1662,Softq
+682,SKU-682,Grocery,11377,Elite
+683,SKU-683,Home Appliances,7878,Softq
+684,SKU-684,Clothing,2173,Elite
+685,SKU-685,Clothing,3116,Softq
+686,SKU-686,Electronics,3471,Softq
+687,SKU-687,Grocery,11829,Softq
+688,SKU-688,Electronics,13986,Softq
+689,SKU-689,Clothing,3292,Global
+690,SKU-690,Furniture,12747,Global
+691,SKU-691,Grocery,608,Nova
+692,SKU-692,Electronics,815,Elite
+693,SKU-693,Clothing,6348,Global
+694,SKU-694,Home Appliances,9163,Prime
+695,SKU-695,Grocery,5464,Prime
+696,SKU-696,Grocery,7427,Nova
+697,SKU-697,Home Appliances,7797,Global
+698,SKU-698,Furniture,131,Elite
+699,SKU-699,Grocery,12611,Elite
+700,SKU-700,Home Appliances,5917,Prime
+701,SKU-701,Grocery,14050,Global
+702,SKU-702,Electronics,2734,Prime
+703,SKU-703,Home Appliances,2055,Nova
+704,SKU-704,Grocery,5588,Prime
+705,SKU-705,Clothing,4648,Nova
+706,SKU-706,Home Appliances,1368,Nova
+707,SKU-707,Furniture,10941,Global
+708,SKU-708,Clothing,14592,Softq
+709,SKU-709,Electronics,8574,Elite
+710,SKU-710,Home Appliances,3945,Prime
+711,SKU-711,Furniture,2806,Global
+712,SKU-712,Home Appliances,12269,Prime
+713,SKU-713,Electronics,12331,Elite
+714,SKU-714,Furniture,3373,Elite
+715,SKU-715,Furniture,2495,Elite
+716,SKU-716,Home Appliances,4577,Global
+717,SKU-717,Furniture,14747,Softq
+718,SKU-718,Clothing,14126,Prime
+719,SKU-719,Home Appliances,8704,Prime
+720,SKU-720,Clothing,3164,Elite
+721,SKU-721,Home Appliances,11647,Nova
+722,SKU-722,Home Appliances,3293,Elite
+723,SKU-723,Electronics,6692,Elite
+724,SKU-724,Electronics,5388,Elite
+725,SKU-725,Clothing,13132,Softq
+726,SKU-726,Furniture,14571,Prime
+727,SKU-727,Electronics,13118,Elite
+728,SKU-728,Furniture,14661,Elite
+729,SKU-729,Furniture,2828,Elite
+730,SKU-730,Furniture,13783,Global
+731,SKU-731,Grocery,10251,Global
+732,SKU-732,Furniture,12654,Softq
+733,SKU-733,Furniture,939,Prime
+734,SKU-734,Grocery,10602,Global
+735,SKU-735,Home Appliances,2708,Nova
+736,SKU-736,Clothing,5079,Softq
+737,SKU-737,Clothing,3273,Nova
+738,SKU-738,Clothing,5799,Elite
+739,SKU-739,Electronics,829,Softq
+740,SKU-740,Electronics,7904,Nova
+741,SKU-741,Home Appliances,2339,Softq
+742,SKU-742,Home Appliances,9491,Elite
+743,SKU-743,Clothing,13719,Elite
+744,SKU-744,Electronics,10287,Prime
+745,SKU-745,Clothing,7829,Prime
+746,SKU-746,Grocery,3661,Elite
+747,SKU-747,Clothing,12522,Prime
+748,SKU-748,Clothing,5553,Nova
+749,SKU-749,Grocery,1104,Elite
+750,SKU-750,Electronics,5313,Prime
+751,SKU-751,Electronics,12315,Elite
+752,SKU-752,Clothing,12131,Softq
+753,SKU-753,Grocery,3484,Prime
+754,SKU-754,Home Appliances,14312,Nova
+755,SKU-755,Home Appliances,1030,Nova
+756,SKU-756,Furniture,9990,Elite
+757,SKU-757,Clothing,8522,Softq
+758,SKU-758,Clothing,4741,Softq
+759,SKU-759,Grocery,8560,Elite
+760,SKU-760,Electronics,12453,Softq
+761,SKU-761,Electronics,7255,Softq
+762,SKU-762,Furniture,14510,Prime
+763,SKU-763,Home Appliances,4257,Elite
+764,SKU-764,Electronics,987,Softq
+765,SKU-765,Electronics,13591,Prime
+766,SKU-766,Clothing,2412,Softq
+767,SKU-767,Furniture,14297,Prime
+768,SKU-768,Home Appliances,8755,Elite
+769,SKU-769,Electronics,12824,Softq
+770,SKU-770,Furniture,14236,Prime
+771,SKU-771,Grocery,14725,Global
+772,SKU-772,Furniture,8819,Elite
+773,SKU-773,Clothing,6079,Elite
+774,SKU-774,Grocery,7696,Softq
+775,SKU-775,Clothing,13125,Prime
+776,SKU-776,Grocery,6538,Elite
+777,SKU-777,Clothing,11168,Softq
+778,SKU-778,Home Appliances,11994,Nova
+779,SKU-779,Clothing,14528,Nova
+780,SKU-780,Grocery,10898,Global
+781,SKU-781,Electronics,7662,Elite
+782,SKU-782,Home Appliances,6224,Global
+783,SKU-783,Clothing,6792,Elite
+784,SKU-784,Electronics,11755,Softq
+785,SKU-785,Grocery,6828,Global
+786,SKU-786,Clothing,6643,Prime
+787,SKU-787,Electronics,9360,Nova
+788,SKU-788,Home Appliances,12365,Elite
+789,SKU-789,Furniture,140,Global
+790,SKU-790,Home Appliances,5243,Global
+791,SKU-791,Grocery,11794,Global
+792,SKU-792,Furniture,869,Global
+793,SKU-793,Grocery,2052,Global
+794,SKU-794,Electronics,11455,Nova
+795,SKU-795,Home Appliances,11710,Global
+796,SKU-796,Clothing,14623,Elite
+797,SKU-797,Furniture,13420,Elite
+798,SKU-798,Furniture,8787,Softq
+799,SKU-799,Furniture,12122,Softq
+800,SKU-800,Furniture,4105,Softq
+801,SKU-801,Grocery,1795,Global
+802,SKU-802,Electronics,5554,Nova
+803,SKU-803,Home Appliances,5924,Softq
+804,SKU-804,Furniture,11657,Nova
+805,SKU-805,Home Appliances,13593,Global
+806,SKU-806,Furniture,13303,Prime
+807,SKU-807,Clothing,3787,Elite
+808,SKU-808,Clothing,2423,Nova
+809,SKU-809,Furniture,13162,Prime
+810,SKU-810,Grocery,8484,Nova
+811,SKU-811,Clothing,6393,Elite
+812,SKU-812,Grocery,8067,Nova
+813,SKU-813,Clothing,10724,Elite
+814,SKU-814,Electronics,8584,Prime
+815,SKU-815,Grocery,12723,Elite
+816,SKU-816,Clothing,5417,Prime
+817,SKU-817,Clothing,10329,Nova
+818,SKU-818,Home Appliances,2438,Nova
+819,SKU-819,Furniture,7424,Elite
+820,SKU-820,Electronics,11675,Prime
+821,SKU-821,Electronics,11755,Global
+822,SKU-822,Clothing,12742,Nova
+823,SKU-823,Clothing,10311,Nova
+824,SKU-824,Furniture,11504,Global
+825,SKU-825,Furniture,14173,Softq
+826,SKU-826,Electronics,3796,Global
+827,SKU-827,Home Appliances,12448,Prime
+828,SKU-828,Grocery,4421,Softq
+829,SKU-829,Furniture,6716,Softq
+830,SKU-830,Grocery,195,Elite
+831,SKU-831,Home Appliances,868,Prime
+832,SKU-832,Furniture,3850,Prime
+833,SKU-833,Clothing,1267,Prime
+834,SKU-834,Grocery,9770,Nova
+835,SKU-835,Clothing,4176,Global
+836,SKU-836,Grocery,3884,Prime
+837,SKU-837,Grocery,856,Softq
+838,SKU-838,Furniture,13623,Prime
+839,SKU-839,Electronics,14964,Nova
+840,SKU-840,Grocery,13112,Softq
+841,SKU-841,Furniture,1327,Elite
+842,SKU-842,Grocery,13194,Softq
+843,SKU-843,Clothing,8413,Prime
+844,SKU-844,Home Appliances,12719,Nova
+845,SKU-845,Furniture,10354,Nova
+846,SKU-846,Grocery,8082,Global
+847,SKU-847,Furniture,10986,Nova
+848,SKU-848,Furniture,13909,Elite
+849,SKU-849,Clothing,3310,Global
+850,SKU-850,Electronics,2610,Global
+851,SKU-851,Home Appliances,2732,Softq
+852,SKU-852,Clothing,5099,Softq
+853,SKU-853,Grocery,12615,Elite
+854,SKU-854,Grocery,11428,Prime
+855,SKU-855,Grocery,2231,Softq
+856,SKU-856,Grocery,820,Prime
+857,SKU-857,Furniture,10947,Prime
+858,SKU-858,Furniture,4891,Elite
+859,SKU-859,Grocery,7466,Nova
+860,SKU-860,Clothing,11364,Nova
+861,SKU-861,Furniture,10669,Softq
+862,SKU-862,Electronics,12495,Nova
+863,SKU-863,Furniture,1494,Prime
+864,SKU-864,Clothing,4320,Softq
+865,SKU-865,Furniture,5429,Softq
+866,SKU-866,Electronics,7919,Nova
+867,SKU-867,Grocery,3623,Elite
+868,SKU-868,Furniture,13975,Nova
+869,SKU-869,Furniture,1190,Nova
+870,SKU-870,Clothing,13630,Global
+871,SKU-871,Home Appliances,12077,Global
+872,SKU-872,Furniture,111,Softq
+873,SKU-873,Grocery,10337,Prime
+874,SKU-874,Clothing,3989,Elite
+875,SKU-875,Home Appliances,13172,Nova
+876,SKU-876,Home Appliances,11409,Global
+877,SKU-877,Furniture,6786,Prime
+878,SKU-878,Home Appliances,4304,Prime
+879,SKU-879,Electronics,4862,Elite
+880,SKU-880,Home Appliances,4500,Prime
+881,SKU-881,Furniture,6286,Nova
+882,SKU-882,Electronics,6892,Nova
+883,SKU-883,Clothing,3385,Prime
+884,SKU-884,Furniture,12108,Nova
+885,SKU-885,Grocery,14724,Global
+886,SKU-886,Furniture,3986,Elite
+887,SKU-887,Electronics,2033,Elite
+888,SKU-888,Home Appliances,3749,Elite
+889,SKU-889,Electronics,7515,Prime
+890,SKU-890,Home Appliances,8750,Nova
+891,SKU-891,Furniture,9259,Prime
+892,SKU-892,Home Appliances,9515,Nova
+893,SKU-893,Furniture,3793,Softq
+894,SKU-894,Furniture,11136,Softq
+895,SKU-895,Furniture,6119,Softq
+896,SKU-896,Clothing,8571,Elite
+897,SKU-897,Electronics,8377,Global
+898,SKU-898,Grocery,8743,Global
+899,SKU-899,Electronics,6968,Prime
+900,SKU-900,Grocery,7473,Prime
+901,SKU-901,Grocery,9425,Softq
+902,SKU-902,Home Appliances,7856,Global
+903,SKU-903,Furniture,11305,Prime
+904,SKU-904,Home Appliances,9044,Global
+905,SKU-905,Electronics,991,Elite
+906,SKU-906,Grocery,9458,Global
+907,SKU-907,Clothing,12410,Global
+908,SKU-908,Furniture,13989,Prime
+909,SKU-909,Electronics,13982,Elite
+910,SKU-910,Electronics,9732,Softq
+911,SKU-911,Electronics,5187,Nova
+912,SKU-912,Grocery,13990,Prime
+913,SKU-913,Home Appliances,7580,Prime
+914,SKU-914,Grocery,2583,Nova
+915,SKU-915,Home Appliances,5887,Elite
+916,SKU-916,Clothing,4730,Prime
+917,SKU-917,Electronics,11849,Softq
+918,SKU-918,Grocery,4968,Global
+919,SKU-919,Furniture,749,Global
+920,SKU-920,Electronics,10226,Nova
+921,SKU-921,Furniture,13527,Prime
+922,SKU-922,Furniture,1461,Nova
+923,SKU-923,Furniture,4063,Prime
+924,SKU-924,Furniture,6429,Prime
+925,SKU-925,Home Appliances,114,Elite
+926,SKU-926,Furniture,6323,Softq
+927,SKU-927,Furniture,14595,Softq
+928,SKU-928,Furniture,14458,Elite
+929,SKU-929,Grocery,5464,Nova
+930,SKU-930,Furniture,13183,Global
+931,SKU-931,Clothing,6719,Elite
+932,SKU-932,Furniture,3361,Elite
+933,SKU-933,Electronics,8362,Elite
+934,SKU-934,Electronics,7711,Prime
+935,SKU-935,Clothing,11245,Softq
+936,SKU-936,Home Appliances,984,Elite
+937,SKU-937,Clothing,7657,Nova
+938,SKU-938,Grocery,9797,Nova
+939,SKU-939,Clothing,1905,Global
+940,SKU-940,Clothing,2894,Nova
+941,SKU-941,Furniture,11903,Prime
+942,SKU-942,Home Appliances,9362,Prime
+943,SKU-943,Clothing,9509,Softq
+944,SKU-944,Clothing,7114,Nova
+945,SKU-945,Furniture,12898,Nova
+946,SKU-946,Electronics,10918,Elite
+947,SKU-947,Home Appliances,8512,Softq
+948,SKU-948,Furniture,8312,Global
+949,SKU-949,Electronics,10407,Prime
+950,SKU-950,Home Appliances,9470,Global
+951,SKU-951,Home Appliances,5146,Softq
+952,SKU-952,Electronics,11002,Global
+953,SKU-953,Furniture,2336,Nova
+954,SKU-954,Electronics,12418,Elite
+955,SKU-955,Furniture,11689,Nova
+956,SKU-956,Grocery,4654,Softq
+957,SKU-957,Electronics,4065,Elite
+958,SKU-958,Home Appliances,13547,Softq
+959,SKU-959,Electronics,2726,Prime
+960,SKU-960,Grocery,6563,Global
+961,SKU-961,Home Appliances,6686,Global
+962,SKU-962,Clothing,14578,Global
+963,SKU-963,Furniture,6112,Prime
+964,SKU-964,Electronics,754,Elite
+965,SKU-965,Grocery,5295,Softq
+966,SKU-966,Home Appliances,3080,Elite
+967,SKU-967,Electronics,3878,Elite
+968,SKU-968,Electronics,14027,Elite
+969,SKU-969,Electronics,10953,Prime
+970,SKU-970,Home Appliances,2389,Global
+971,SKU-971,Electronics,5295,Elite
+972,SKU-972,Electronics,3564,Softq
+973,SKU-973,Electronics,14867,Elite
+974,SKU-974,Grocery,13014,Nova
+975,SKU-975,Grocery,14782,Softq
+976,SKU-976,Home Appliances,11902,Softq
+977,SKU-977,Home Appliances,10148,Elite
+978,SKU-978,Electronics,7314,Elite
+979,SKU-979,Clothing,4209,Elite
+980,SKU-980,Furniture,10845,Prime
+981,SKU-981,Clothing,12639,Nova
+982,SKU-982,Clothing,10372,Softq
+983,SKU-983,Clothing,12655,Prime
+984,SKU-984,Electronics,11179,Prime
+985,SKU-985,Clothing,13224,Softq
+986,SKU-986,Grocery,13871,Global
+987,SKU-987,Clothing,7636,Nova
+988,SKU-988,Clothing,359,Global
+989,SKU-989,Clothing,3016,Nova
+990,SKU-990,Electronics,7422,Softq
+991,SKU-991,Electronics,3462,Nova
+992,SKU-992,Furniture,4599,Softq
+993,SKU-993,Electronics,1350,Nova
+994,SKU-994,Furniture,3787,Global
+995,SKU-995,Home Appliances,10397,Softq
+996,SKU-996,Home Appliances,13336,Prime
+997,SKU-997,Home Appliances,8639,Global
+998,SKU-998,Clothing,13637,Elite
+999,SKU-999,Electronics,5438,Softq
+1000,SKU-1000,Clothing,8771,Prime
+1001,SKU-1001,Home Appliances,7074,Prime
+1002,SKU-1002,Clothing,1046,Prime
+1003,SKU-1003,Clothing,276,Prime
+1004,SKU-1004,Electronics,12323,Elite
+1005,SKU-1005,Home Appliances,11851,Prime
+1006,SKU-1006,Grocery,13817,Softq
+1007,SKU-1007,Clothing,13960,Nova
+1008,SKU-1008,Electronics,2642,Nova
+1009,SKU-1009,Grocery,4019,Prime
+1010,SKU-1010,Electronics,14602,Elite
+1011,SKU-1011,Furniture,13452,Softq
+1012,SKU-1012,Electronics,104,Global
+1013,SKU-1013,Electronics,13040,Nova
+1014,SKU-1014,Furniture,14909,Global
+1015,SKU-1015,Electronics,1584,Elite
+1016,SKU-1016,Electronics,8662,Prime
+1017,SKU-1017,Home Appliances,6405,Elite
+1018,SKU-1018,Grocery,8133,Softq
+1019,SKU-1019,Clothing,2243,Prime
+1020,SKU-1020,Clothing,10194,Softq
+1021,SKU-1021,Clothing,14856,Softq
+1022,SKU-1022,Home Appliances,3877,Global
+1023,SKU-1023,Furniture,316,Elite
+1024,SKU-1024,Clothing,14116,Elite
+1025,SKU-1025,Home Appliances,10631,Elite
+1026,SKU-1026,Clothing,406,Softq
+1027,SKU-1027,Furniture,12703,Elite
+1028,SKU-1028,Grocery,2863,Nova
+1029,SKU-1029,Home Appliances,8390,Softq
+1030,SKU-1030,Home Appliances,1752,Elite
+1031,SKU-1031,Home Appliances,5333,Softq
+1032,SKU-1032,Electronics,13781,Global
+1033,SKU-1033,Home Appliances,2860,Prime
+1034,SKU-1034,Furniture,394,Prime
+1035,SKU-1035,Furniture,10575,Elite
+1036,SKU-1036,Grocery,3362,Global
+1037,SKU-1037,Electronics,2240,Global
+1038,SKU-1038,Electronics,10912,Softq
+1039,SKU-1039,Furniture,3739,Prime
+1040,SKU-1040,Home Appliances,7841,Global
+1041,SKU-1041,Clothing,14604,Nova
+1042,SKU-1042,Furniture,4461,Elite
+1043,SKU-1043,Clothing,1230,Elite
+1044,SKU-1044,Clothing,4071,Softq
+1045,SKU-1045,Grocery,12746,Global
+1046,SKU-1046,Furniture,9672,Elite
+1047,SKU-1047,Furniture,14942,Elite
+1048,SKU-1048,Electronics,9741,Global
+1049,SKU-1049,Grocery,5110,Softq
+1050,SKU-1050,Furniture,14268,Softq
+1051,SKU-1051,Furniture,1649,Prime
+1052,SKU-1052,Clothing,7993,Softq
+1053,SKU-1053,Clothing,238,Elite
+1054,SKU-1054,Home Appliances,5316,Global
+1055,SKU-1055,Grocery,5142,Nova
+1056,SKU-1056,Clothing,3855,Elite
+1057,SKU-1057,Electronics,1587,Elite
+1058,SKU-1058,Clothing,9657,Softq
+1059,SKU-1059,Electronics,5617,Prime
+1060,SKU-1060,Electronics,8254,Global
+1061,SKU-1061,Home Appliances,9204,Elite
+1062,SKU-1062,Clothing,14072,Global
+1063,SKU-1063,Grocery,14616,Prime
+1064,SKU-1064,Grocery,14541,Global
+1065,SKU-1065,Electronics,6987,Softq
+1066,SKU-1066,Home Appliances,3865,Softq
+1067,SKU-1067,Electronics,367,Prime
+1068,SKU-1068,Furniture,1315,Softq
+1069,SKU-1069,Electronics,3886,Softq
+1070,SKU-1070,Grocery,12572,Global
+1071,SKU-1071,Electronics,1832,Prime
+1072,SKU-1072,Clothing,9389,Nova
+1073,SKU-1073,Electronics,9542,Softq
+1074,SKU-1074,Home Appliances,11614,Softq
+1075,SKU-1075,Electronics,12755,Elite
+1076,SKU-1076,Clothing,11177,Prime
+1077,SKU-1077,Clothing,5949,Softq
+1078,SKU-1078,Home Appliances,6289,Prime
+1079,SKU-1079,Home Appliances,5048,Prime
+1080,SKU-1080,Furniture,14469,Prime
+1081,SKU-1081,Clothing,8156,Prime
+1082,SKU-1082,Electronics,12829,Nova
+1083,SKU-1083,Home Appliances,1041,Elite
+1084,SKU-1084,Furniture,2429,Global
+1085,SKU-1085,Electronics,1108,Prime
+1086,SKU-1086,Electronics,12693,Nova
+1087,SKU-1087,Grocery,2110,Global
+1088,SKU-1088,Home Appliances,339,Softq
+1089,SKU-1089,Electronics,9124,Softq
+1090,SKU-1090,Clothing,2744,Elite
+1091,SKU-1091,Grocery,6422,Nova
+1092,SKU-1092,Grocery,4366,Global
+1093,SKU-1093,Furniture,11681,Elite
+1094,SKU-1094,Home Appliances,5408,Prime
+1095,SKU-1095,Electronics,5976,Prime
+1096,SKU-1096,Grocery,6364,Softq
+1097,SKU-1097,Electronics,9620,Softq
+1098,SKU-1098,Electronics,7032,Global
+1099,SKU-1099,Electronics,11300,Elite
+1100,SKU-1100,Electronics,5720,Elite
+1101,SKU-1101,Home Appliances,5064,Prime
+1102,SKU-1102,Grocery,6461,Prime
+1103,SKU-1103,Electronics,8562,Global
+1104,SKU-1104,Home Appliances,3950,Elite
+1105,SKU-1105,Furniture,4116,Softq
+1106,SKU-1106,Clothing,10747,Nova
+1107,SKU-1107,Furniture,10259,Global
+1108,SKU-1108,Home Appliances,3195,Nova
+1109,SKU-1109,Furniture,1801,Elite
+1110,SKU-1110,Clothing,4973,Nova
+1111,SKU-1111,Grocery,6205,Nova
+1112,SKU-1112,Electronics,13085,Elite
+1113,SKU-1113,Grocery,2179,Global
+1114,SKU-1114,Grocery,7585,Elite
+1115,SKU-1115,Clothing,727,Softq
+1116,SKU-1116,Clothing,13193,Softq
+1117,SKU-1117,Furniture,8324,Global
+1118,SKU-1118,Electronics,13370,Nova
+1119,SKU-1119,Clothing,8407,Softq
+1120,SKU-1120,Home Appliances,7852,Nova
+1121,SKU-1121,Clothing,14304,Softq
+1122,SKU-1122,Clothing,1982,Nova
+1123,SKU-1123,Clothing,8124,Prime
+1124,SKU-1124,Clothing,6323,Softq
+1125,SKU-1125,Furniture,2569,Prime
+1126,SKU-1126,Furniture,9095,Softq
+1127,SKU-1127,Grocery,4983,Softq
+1128,SKU-1128,Grocery,4649,Nova
+1129,SKU-1129,Furniture,1268,Prime
+1130,SKU-1130,Clothing,12035,Prime
+1131,SKU-1131,Clothing,9418,Prime
+1132,SKU-1132,Grocery,9165,Softq
+1133,SKU-1133,Electronics,8547,Softq
+1134,SKU-1134,Clothing,2442,Prime
+1135,SKU-1135,Electronics,10725,Softq
+1136,SKU-1136,Electronics,2994,Prime
+1137,SKU-1137,Home Appliances,11601,Elite
+1138,SKU-1138,Furniture,4531,Global
+1139,SKU-1139,Grocery,12807,Global
+1140,SKU-1140,Clothing,4612,Elite
+1141,SKU-1141,Home Appliances,11538,Softq
+1142,SKU-1142,Furniture,4336,Elite
+1143,SKU-1143,Furniture,9669,Global
+1144,SKU-1144,Grocery,10061,Elite
+1145,SKU-1145,Grocery,11359,Nova
+1146,SKU-1146,Clothing,10752,Elite
+1147,SKU-1147,Electronics,6912,Global
+1148,SKU-1148,Home Appliances,6402,Nova
+1149,SKU-1149,Clothing,12858,Prime
+1150,SKU-1150,Clothing,1921,Nova
+1151,SKU-1151,Grocery,1651,Softq
+1152,SKU-1152,Home Appliances,5456,Elite
+1153,SKU-1153,Electronics,14644,Nova
+1154,SKU-1154,Furniture,11182,Elite
+1155,SKU-1155,Grocery,8124,Global
+1156,SKU-1156,Furniture,7079,Softq
+1157,SKU-1157,Clothing,11128,Nova
+1158,SKU-1158,Furniture,4371,Prime
+1159,SKU-1159,Grocery,10624,Elite
+1160,SKU-1160,Furniture,14615,Global
+1161,SKU-1161,Furniture,4974,Elite
+1162,SKU-1162,Grocery,9974,Softq
+1163,SKU-1163,Electronics,8755,Elite
+1164,SKU-1164,Clothing,7711,Softq
+1165,SKU-1165,Clothing,12832,Global
+1166,SKU-1166,Clothing,4413,Nova
+1167,SKU-1167,Grocery,14027,Elite
+1168,SKU-1168,Electronics,1928,Softq
+1169,SKU-1169,Home Appliances,3944,Global
+1170,SKU-1170,Grocery,1099,Prime
+1171,SKU-1171,Furniture,7949,Nova
+1172,SKU-1172,Grocery,5376,Elite
+1173,SKU-1173,Home Appliances,12997,Prime
+1174,SKU-1174,Home Appliances,9844,Global
+1175,SKU-1175,Home Appliances,12890,Nova
+1176,SKU-1176,Grocery,7668,Softq
+1177,SKU-1177,Electronics,9473,Nova
+1178,SKU-1178,Grocery,1855,Global
+1179,SKU-1179,Electronics,10986,Elite
+1180,SKU-1180,Electronics,5434,Nova
+1181,SKU-1181,Furniture,2697,Prime
+1182,SKU-1182,Clothing,3840,Softq
+1183,SKU-1183,Furniture,7796,Softq
+1184,SKU-1184,Home Appliances,579,Prime
+1185,SKU-1185,Electronics,7180,Elite
+1186,SKU-1186,Furniture,7893,Prime
+1187,SKU-1187,Grocery,14132,Softq
+1188,SKU-1188,Grocery,2997,Prime
+1189,SKU-1189,Electronics,2479,Prime
+1190,SKU-1190,Electronics,8930,Global
+1191,SKU-1191,Electronics,4716,Nova
+1192,SKU-1192,Electronics,4909,Global
+1193,SKU-1193,Home Appliances,7083,Nova
+1194,SKU-1194,Furniture,8391,Elite
+1195,SKU-1195,Furniture,14008,Elite
+1196,SKU-1196,Clothing,3830,Nova
+1197,SKU-1197,Home Appliances,14652,Softq
+1198,SKU-1198,Home Appliances,3100,Softq
+1199,SKU-1199,Furniture,3024,Global
+1200,SKU-1200,Electronics,948,Softq
+1201,SKU-1201,Home Appliances,9539,Softq
+1202,SKU-1202,Grocery,977,Elite
+1203,SKU-1203,Furniture,5467,Softq
+1204,SKU-1204,Clothing,12366,Elite
+1205,SKU-1205,Grocery,4416,Elite
+1206,SKU-1206,Furniture,14857,Global
+1207,SKU-1207,Home Appliances,4938,Prime
+1208,SKU-1208,Grocery,13569,Prime
+1209,SKU-1209,Furniture,713,Elite
+1210,SKU-1210,Electronics,2419,Global
+1211,SKU-1211,Clothing,14730,Nova
+1212,SKU-1212,Clothing,13035,Softq
+1213,SKU-1213,Clothing,7670,Nova
+1214,SKU-1214,Grocery,10281,Prime
+1215,SKU-1215,Electronics,9482,Global
+1216,SKU-1216,Grocery,7759,Global
+1217,SKU-1217,Furniture,14686,Softq
+1218,SKU-1218,Electronics,10194,Prime
+1219,SKU-1219,Furniture,407,Softq
+1220,SKU-1220,Electronics,11297,Softq
+1221,SKU-1221,Electronics,11506,Global
+1222,SKU-1222,Furniture,4217,Nova
+1223,SKU-1223,Home Appliances,9962,Prime
+1224,SKU-1224,Grocery,12226,Prime
+1225,SKU-1225,Electronics,3441,Prime
+1226,SKU-1226,Grocery,772,Elite
+1227,SKU-1227,Grocery,7567,Prime
+1228,SKU-1228,Clothing,7317,Prime
+1229,SKU-1229,Home Appliances,759,Softq
+1230,SKU-1230,Electronics,14005,Softq
+1231,SKU-1231,Grocery,5877,Nova
+1232,SKU-1232,Home Appliances,6624,Nova
+1233,SKU-1233,Home Appliances,1567,Nova
+1234,SKU-1234,Grocery,5789,Nova
+1235,SKU-1235,Furniture,11911,Nova
+1236,SKU-1236,Electronics,7099,Elite
+1237,SKU-1237,Electronics,10801,Global
+1238,SKU-1238,Home Appliances,13034,Elite
+1239,SKU-1239,Furniture,8679,Softq
+1240,SKU-1240,Electronics,146,Global
+1241,SKU-1241,Furniture,4966,Nova
+1242,SKU-1242,Clothing,3960,Global
+1243,SKU-1243,Grocery,11611,Nova
+1244,SKU-1244,Clothing,12262,Softq
+1245,SKU-1245,Furniture,13397,Global
+1246,SKU-1246,Home Appliances,3690,Softq
+1247,SKU-1247,Home Appliances,10558,Nova
+1248,SKU-1248,Home Appliances,6709,Prime
+1249,SKU-1249,Grocery,8198,Softq
+1250,SKU-1250,Grocery,5709,Prime
+1251,SKU-1251,Furniture,2115,Elite
+1252,SKU-1252,Grocery,10052,Prime
+1253,SKU-1253,Furniture,5264,Global
+1254,SKU-1254,Electronics,3131,Softq
+1255,SKU-1255,Home Appliances,354,Global
+1256,SKU-1256,Grocery,11718,Elite
+1257,SKU-1257,Electronics,10258,Elite
+1258,SKU-1258,Electronics,7626,Nova
+1259,SKU-1259,Clothing,11366,Global
+1260,SKU-1260,Electronics,10275,Elite
+1261,SKU-1261,Clothing,12047,Prime
+1262,SKU-1262,Clothing,9202,Elite
+1263,SKU-1263,Grocery,13914,Prime
+1264,SKU-1264,Home Appliances,14383,Global
+1265,SKU-1265,Home Appliances,6874,Softq
+1266,SKU-1266,Grocery,7932,Prime
+1267,SKU-1267,Electronics,9446,Softq
+1268,SKU-1268,Grocery,903,Global
+1269,SKU-1269,Clothing,9209,Nova
+1270,SKU-1270,Grocery,4527,Nova
+1271,SKU-1271,Furniture,4850,Elite
+1272,SKU-1272,Grocery,8452,Global
+1273,SKU-1273,Furniture,3490,Prime
+1274,SKU-1274,Grocery,3198,Elite
+1275,SKU-1275,Electronics,4505,Nova
+1276,SKU-1276,Home Appliances,1014,Nova
+1277,SKU-1277,Furniture,187,Softq
+1278,SKU-1278,Clothing,2138,Softq
+1279,SKU-1279,Electronics,12246,Prime
+1280,SKU-1280,Electronics,6506,Global
+1281,SKU-1281,Electronics,10105,Prime
+1282,SKU-1282,Home Appliances,12756,Prime
+1283,SKU-1283,Electronics,8896,Softq
+1284,SKU-1284,Clothing,8654,Prime
+1285,SKU-1285,Home Appliances,5377,Global
+1286,SKU-1286,Clothing,4215,Prime
+1287,SKU-1287,Furniture,6564,Global
+1288,SKU-1288,Home Appliances,3083,Global
+1289,SKU-1289,Electronics,8252,Softq
+1290,SKU-1290,Grocery,3219,Nova
+1291,SKU-1291,Furniture,3041,Global
+1292,SKU-1292,Furniture,557,Global
+1293,SKU-1293,Grocery,11445,Elite
+1294,SKU-1294,Clothing,13093,Softq
+1295,SKU-1295,Clothing,992,Global
+1296,SKU-1296,Clothing,12048,Elite
+1297,SKU-1297,Grocery,6727,Elite
+1298,SKU-1298,Home Appliances,7895,Nova
+1299,SKU-1299,Clothing,9729,Elite
+1300,SKU-1300,Furniture,14711,Global
+1301,SKU-1301,Furniture,9716,Global
+1302,SKU-1302,Home Appliances,11232,Elite
+1303,SKU-1303,Electronics,13094,Nova
+1304,SKU-1304,Clothing,11193,Nova
+1305,SKU-1305,Electronics,4111,Prime
+1306,SKU-1306,Electronics,13876,Softq
+1307,SKU-1307,Clothing,14635,Global
+1308,SKU-1308,Electronics,3564,Global
+1309,SKU-1309,Electronics,10896,Nova
+1310,SKU-1310,Grocery,2898,Nova
+1311,SKU-1311,Clothing,3726,Nova
+1312,SKU-1312,Home Appliances,2459,Prime
+1313,SKU-1313,Home Appliances,3682,Elite
+1314,SKU-1314,Grocery,6102,Global
+1315,SKU-1315,Electronics,6169,Nova
+1316,SKU-1316,Clothing,9609,Softq
+1317,SKU-1317,Home Appliances,7331,Global
+1318,SKU-1318,Grocery,6722,Global
+1319,SKU-1319,Grocery,1647,Nova
+1320,SKU-1320,Clothing,5210,Global
+1321,SKU-1321,Home Appliances,2646,Softq
+1322,SKU-1322,Furniture,6439,Prime
+1323,SKU-1323,Electronics,11353,Elite
+1324,SKU-1324,Home Appliances,3783,Nova
+1325,SKU-1325,Electronics,10381,Global
+1326,SKU-1326,Home Appliances,8468,Global
+1327,SKU-1327,Electronics,5300,Global
+1328,SKU-1328,Clothing,6927,Softq
+1329,SKU-1329,Grocery,1667,Nova
+1330,SKU-1330,Grocery,3533,Elite
+1331,SKU-1331,Home Appliances,12476,Elite
+1332,SKU-1332,Grocery,14227,Softq
+1333,SKU-1333,Grocery,2908,Global
+1334,SKU-1334,Furniture,3494,Elite
+1335,SKU-1335,Electronics,13399,Global
+1336,SKU-1336,Clothing,345,Softq
+1337,SKU-1337,Electronics,14560,Nova
+1338,SKU-1338,Electronics,5069,Softq
+1339,SKU-1339,Furniture,2795,Prime
+1340,SKU-1340,Grocery,6462,Prime
+1341,SKU-1341,Clothing,450,Prime
+1342,SKU-1342,Home Appliances,8665,Prime
+1343,SKU-1343,Clothing,1194,Softq
+1344,SKU-1344,Electronics,277,Softq
+1345,SKU-1345,Furniture,6748,Prime
+1346,SKU-1346,Furniture,881,Softq
+1347,SKU-1347,Grocery,10221,Elite
+1348,SKU-1348,Grocery,14911,Global
+1349,SKU-1349,Clothing,5313,Elite
+1350,SKU-1350,Grocery,14012,Prime
+1351,SKU-1351,Furniture,12275,Elite
+1352,SKU-1352,Clothing,10006,Nova
+1353,SKU-1353,Electronics,10438,Softq
+1354,SKU-1354,Electronics,9850,Global
+1355,SKU-1355,Furniture,8249,Global
+1356,SKU-1356,Furniture,5365,Softq
+1357,SKU-1357,Grocery,8058,Prime
+1358,SKU-1358,Electronics,2315,Prime
+1359,SKU-1359,Furniture,210,Elite
+1360,SKU-1360,Grocery,9036,Prime
+1361,SKU-1361,Furniture,6336,Softq
+1362,SKU-1362,Furniture,8103,Nova
+1363,SKU-1363,Furniture,7419,Nova
+1364,SKU-1364,Grocery,3915,Global
+1365,SKU-1365,Furniture,11494,Softq
+1366,SKU-1366,Clothing,4029,Global
+1367,SKU-1367,Clothing,12174,Nova
+1368,SKU-1368,Grocery,14086,Elite
+1369,SKU-1369,Home Appliances,305,Softq
+1370,SKU-1370,Clothing,12946,Nova
+1371,SKU-1371,Grocery,10809,Elite
+1372,SKU-1372,Electronics,8645,Elite
+1373,SKU-1373,Electronics,14702,Nova
+1374,SKU-1374,Furniture,1240,Elite
+1375,SKU-1375,Grocery,4909,Prime
+1376,SKU-1376,Home Appliances,10312,Prime
+1377,SKU-1377,Grocery,6805,Elite
+1378,SKU-1378,Home Appliances,13011,Softq
+1379,SKU-1379,Electronics,14971,Elite
+1380,SKU-1380,Furniture,7410,Elite
+1381,SKU-1381,Clothing,3147,Elite
+1382,SKU-1382,Electronics,3845,Elite
+1383,SKU-1383,Electronics,6435,Global
+1384,SKU-1384,Electronics,658,Elite
+1385,SKU-1385,Clothing,8526,Prime
+1386,SKU-1386,Furniture,12476,Global
+1387,SKU-1387,Electronics,14110,Global
+1388,SKU-1388,Clothing,6528,Global
+1389,SKU-1389,Grocery,10315,Softq
+1390,SKU-1390,Electronics,8225,Nova
+1391,SKU-1391,Home Appliances,6494,Global
+1392,SKU-1392,Furniture,1687,Global
+1393,SKU-1393,Clothing,3183,Global
+1394,SKU-1394,Electronics,4197,Global
+1395,SKU-1395,Clothing,14393,Nova
+1396,SKU-1396,Clothing,5724,Nova
+1397,SKU-1397,Grocery,3655,Prime
+1398,SKU-1398,Home Appliances,8689,Elite
+1399,SKU-1399,Home Appliances,5392,Nova
+1400,SKU-1400,Home Appliances,2841,Elite
+1401,SKU-1401,Electronics,6471,Nova
+1402,SKU-1402,Furniture,2636,Elite
+1403,SKU-1403,Furniture,14871,Global
+1404,SKU-1404,Home Appliances,3367,Elite
+1405,SKU-1405,Home Appliances,12660,Elite
+1406,SKU-1406,Clothing,12826,Softq
+1407,SKU-1407,Electronics,13235,Prime
+1408,SKU-1408,Clothing,8854,Elite
+1409,SKU-1409,Furniture,11868,Prime
+1410,SKU-1410,Clothing,11665,Global
+1411,SKU-1411,Furniture,13298,Global
+1412,SKU-1412,Furniture,10762,Global
+1413,SKU-1413,Electronics,7034,Global
+1414,SKU-1414,Home Appliances,14925,Softq
+1415,SKU-1415,Clothing,13517,Prime
+1416,SKU-1416,Grocery,3855,Global
+1417,SKU-1417,Grocery,4666,Global
+1418,SKU-1418,Electronics,14450,Nova
+1419,SKU-1419,Furniture,1314,Nova
+1420,SKU-1420,Electronics,4282,Softq
+1421,SKU-1421,Electronics,8155,Nova
+1422,SKU-1422,Grocery,4752,Prime
+1423,SKU-1423,Home Appliances,11535,Global
+1424,SKU-1424,Grocery,3201,Global
+1425,SKU-1425,Clothing,12354,Global
+1426,SKU-1426,Electronics,7452,Softq
+1427,SKU-1427,Clothing,14147,Elite
+1428,SKU-1428,Home Appliances,2578,Nova
+1429,SKU-1429,Grocery,7007,Elite
+1430,SKU-1430,Clothing,1862,Global
+1431,SKU-1431,Clothing,13080,Elite
+1432,SKU-1432,Home Appliances,6911,Nova
+1433,SKU-1433,Furniture,8093,Elite
+1434,SKU-1434,Home Appliances,13041,Elite
+1435,SKU-1435,Clothing,3563,Global
+1436,SKU-1436,Clothing,13793,Elite
+1437,SKU-1437,Grocery,1870,Prime
+1438,SKU-1438,Home Appliances,948,Nova
+1439,SKU-1439,Electronics,11297,Nova
+1440,SKU-1440,Grocery,12283,Prime
+1441,SKU-1441,Furniture,5973,Nova
+1442,SKU-1442,Electronics,4309,Elite
+1443,SKU-1443,Furniture,858,Prime
+1444,SKU-1444,Electronics,2498,Nova
+1445,SKU-1445,Home Appliances,14313,Elite
+1446,SKU-1446,Home Appliances,4996,Global
+1447,SKU-1447,Clothing,11323,Prime
+1448,SKU-1448,Home Appliances,9285,Nova
+1449,SKU-1449,Grocery,14357,Softq
+1450,SKU-1450,Grocery,10769,Elite
+1451,SKU-1451,Clothing,1426,Global
+1452,SKU-1452,Home Appliances,4914,Elite
+1453,SKU-1453,Grocery,1956,Global
+1454,SKU-1454,Grocery,922,Nova
+1455,SKU-1455,Electronics,5442,Global
+1456,SKU-1456,Grocery,4100,Global
+1457,SKU-1457,Home Appliances,10126,Nova
+1458,SKU-1458,Furniture,3122,Elite
+1459,SKU-1459,Furniture,12007,Global
+1460,SKU-1460,Electronics,4921,Elite
+1461,SKU-1461,Grocery,9765,Elite
+1462,SKU-1462,Furniture,12715,Nova
+1463,SKU-1463,Clothing,861,Global
+1464,SKU-1464,Electronics,12836,Softq
+1465,SKU-1465,Grocery,6810,Prime
+1466,SKU-1466,Grocery,7818,Prime
+1467,SKU-1467,Grocery,6610,Softq
+1468,SKU-1468,Electronics,3893,Elite
+1469,SKU-1469,Home Appliances,7857,Softq
+1470,SKU-1470,Grocery,6676,Global
+1471,SKU-1471,Home Appliances,547,Nova
+1472,SKU-1472,Furniture,10580,Elite
+1473,SKU-1473,Electronics,1802,Nova
+1474,SKU-1474,Grocery,4688,Global
+1475,SKU-1475,Home Appliances,2893,Softq
+1476,SKU-1476,Grocery,4558,Elite
+1477,SKU-1477,Home Appliances,4654,Nova
+1478,SKU-1478,Home Appliances,4851,Elite
+1479,SKU-1479,Electronics,6721,Prime
+1480,SKU-1480,Clothing,11309,Prime
+1481,SKU-1481,Home Appliances,8725,Global
+1482,SKU-1482,Clothing,10137,Elite
+1483,SKU-1483,Grocery,3711,Nova
+1484,SKU-1484,Grocery,12066,Nova
+1485,SKU-1485,Furniture,710,Nova
+1486,SKU-1486,Electronics,7392,Prime
+1487,SKU-1487,Clothing,14992,Nova
+1488,SKU-1488,Home Appliances,4121,Elite
+1489,SKU-1489,Grocery,1192,Global
+1490,SKU-1490,Furniture,8772,Nova
+1491,SKU-1491,Grocery,5350,Global
+1492,SKU-1492,Clothing,5121,Elite
+1493,SKU-1493,Clothing,8349,Softq
+1494,SKU-1494,Home Appliances,5604,Prime
+1495,SKU-1495,Furniture,13345,Prime
+1496,SKU-1496,Electronics,11902,Nova
+1497,SKU-1497,Furniture,4624,Prime
+1498,SKU-1498,Electronics,11876,Prime
+1499,SKU-1499,Electronics,1320,Nova
+1500,SKU-1500,Clothing,417,Prime
+1501,SKU-1501,Electronics,1097,Global
+1502,SKU-1502,Grocery,137,Elite
+1503,SKU-1503,Clothing,8406,Prime
+1504,SKU-1504,Clothing,7796,Global
+1505,SKU-1505,Clothing,10669,Nova
+1506,SKU-1506,Home Appliances,7243,Global
+1507,SKU-1507,Grocery,4716,Nova
+1508,SKU-1508,Furniture,13808,Global
+1509,SKU-1509,Grocery,7639,Softq
+1510,SKU-1510,Home Appliances,11200,Global
+1511,SKU-1511,Furniture,3277,Prime
+1512,SKU-1512,Furniture,13411,Nova
+1513,SKU-1513,Furniture,8158,Softq
+1514,SKU-1514,Furniture,9055,Global
+1515,SKU-1515,Grocery,1443,Prime
+1516,SKU-1516,Electronics,5572,Global
+1517,SKU-1517,Furniture,5396,Prime
+1518,SKU-1518,Home Appliances,11649,Softq
+1519,SKU-1519,Grocery,14422,Prime
+1520,SKU-1520,Furniture,10109,Prime
+1521,SKU-1521,Clothing,467,Global
+1522,SKU-1522,Grocery,6434,Elite
+1523,SKU-1523,Electronics,2157,Prime
+1524,SKU-1524,Clothing,8074,Elite
+1525,SKU-1525,Electronics,1002,Global
+1526,SKU-1526,Home Appliances,4958,Softq
+1527,SKU-1527,Home Appliances,13376,Global
+1528,SKU-1528,Electronics,10653,Elite
+1529,SKU-1529,Home Appliances,4881,Softq
+1530,SKU-1530,Electronics,6110,Elite
+1531,SKU-1531,Home Appliances,2358,Elite
+1532,SKU-1532,Furniture,11039,Global
+1533,SKU-1533,Home Appliances,4868,Prime
+1534,SKU-1534,Home Appliances,935,Elite
+1535,SKU-1535,Furniture,8808,Prime
+1536,SKU-1536,Clothing,7176,Nova
+1537,SKU-1537,Home Appliances,1159,Global
+1538,SKU-1538,Furniture,11874,Global
+1539,SKU-1539,Grocery,4400,Softq
+1540,SKU-1540,Grocery,246,Prime
+1541,SKU-1541,Electronics,496,Prime
+1542,SKU-1542,Grocery,9688,Elite
+1543,SKU-1543,Home Appliances,5993,Global
+1544,SKU-1544,Electronics,11414,Elite
+1545,SKU-1545,Furniture,11468,Elite
+1546,SKU-1546,Home Appliances,5067,Prime
+1547,SKU-1547,Grocery,14464,Prime
+1548,SKU-1548,Electronics,2585,Elite
+1549,SKU-1549,Clothing,6750,Global
+1550,SKU-1550,Grocery,11095,Prime
+1551,SKU-1551,Grocery,6990,Prime
+1552,SKU-1552,Home Appliances,9739,Nova
+1553,SKU-1553,Grocery,10854,Softq
+1554,SKU-1554,Grocery,10747,Softq
+1555,SKU-1555,Electronics,9976,Prime
+1556,SKU-1556,Home Appliances,765,Softq
+1557,SKU-1557,Electronics,468,Softq
+1558,SKU-1558,Grocery,8907,Prime
+1559,SKU-1559,Furniture,8821,Prime
+1560,SKU-1560,Home Appliances,13363,Global
+1561,SKU-1561,Home Appliances,1282,Nova
+1562,SKU-1562,Grocery,11277,Elite
+1563,SKU-1563,Home Appliances,9998,Elite
+1564,SKU-1564,Furniture,14867,Nova
+1565,SKU-1565,Clothing,12588,Softq
+1566,SKU-1566,Clothing,9780,Nova
+1567,SKU-1567,Electronics,10505,Nova
+1568,SKU-1568,Electronics,8554,Elite
+1569,SKU-1569,Furniture,1942,Softq
+1570,SKU-1570,Clothing,12621,Elite
+1571,SKU-1571,Clothing,13756,Nova
+1572,SKU-1572,Clothing,8871,Global
+1573,SKU-1573,Grocery,7069,Elite
+1574,SKU-1574,Clothing,8854,Elite
+1575,SKU-1575,Home Appliances,14161,Nova
+1576,SKU-1576,Clothing,11090,Prime
+1577,SKU-1577,Furniture,167,Global
+1578,SKU-1578,Clothing,5645,Elite
+1579,SKU-1579,Grocery,6311,Global
+1580,SKU-1580,Electronics,3429,Softq
+1581,SKU-1581,Home Appliances,8645,Nova
+1582,SKU-1582,Clothing,6767,Nova
+1583,SKU-1583,Home Appliances,11705,Softq
+1584,SKU-1584,Clothing,2638,Nova
+1585,SKU-1585,Electronics,14882,Nova
+1586,SKU-1586,Clothing,12064,Prime
+1587,SKU-1587,Electronics,8126,Nova
+1588,SKU-1588,Grocery,11182,Prime
+1589,SKU-1589,Furniture,5602,Elite
+1590,SKU-1590,Grocery,4112,Global
+1591,SKU-1591,Grocery,2764,Nova
+1592,SKU-1592,Electronics,7063,Nova
+1593,SKU-1593,Furniture,7394,Global
+1594,SKU-1594,Furniture,8894,Softq
+1595,SKU-1595,Grocery,1053,Elite
+1596,SKU-1596,Furniture,9564,Nova
+1597,SKU-1597,Furniture,4605,Elite
+1598,SKU-1598,Electronics,9775,Elite
+1599,SKU-1599,Furniture,5125,Softq
+1600,SKU-1600,Grocery,7529,Softq
+1601,SKU-1601,Furniture,11426,Softq
+1602,SKU-1602,Grocery,2581,Global
+1603,SKU-1603,Furniture,408,Nova
+1604,SKU-1604,Furniture,822,Elite
+1605,SKU-1605,Furniture,3222,Global
+1606,SKU-1606,Furniture,107,Elite
+1607,SKU-1607,Grocery,8177,Global
+1608,SKU-1608,Clothing,13432,Softq
+1609,SKU-1609,Grocery,11271,Nova
+1610,SKU-1610,Clothing,6744,Softq
+1611,SKU-1611,Electronics,639,Softq
+1612,SKU-1612,Clothing,893,Elite
+1613,SKU-1613,Furniture,6836,Nova
+1614,SKU-1614,Electronics,2234,Nova
+1615,SKU-1615,Furniture,4811,Prime
+1616,SKU-1616,Home Appliances,13178,Global
+1617,SKU-1617,Home Appliances,13269,Nova
+1618,SKU-1618,Clothing,10151,Global
+1619,SKU-1619,Clothing,13863,Nova
+1620,SKU-1620,Electronics,12201,Softq
+1621,SKU-1621,Grocery,193,Prime
+1622,SKU-1622,Clothing,7765,Nova
+1623,SKU-1623,Electronics,656,Softq
+1624,SKU-1624,Electronics,8171,Elite
+1625,SKU-1625,Home Appliances,1129,Global
+1626,SKU-1626,Furniture,4083,Elite
+1627,SKU-1627,Electronics,4596,Elite
+1628,SKU-1628,Home Appliances,14335,Softq
+1629,SKU-1629,Furniture,12274,Nova
+1630,SKU-1630,Electronics,13037,Elite
+1631,SKU-1631,Home Appliances,14526,Global
+1632,SKU-1632,Clothing,10978,Elite
+1633,SKU-1633,Furniture,586,Global
+1634,SKU-1634,Home Appliances,1646,Prime
+1635,SKU-1635,Furniture,259,Global
+1636,SKU-1636,Clothing,13560,Softq
+1637,SKU-1637,Electronics,6609,Elite
+1638,SKU-1638,Clothing,7767,Global
+1639,SKU-1639,Grocery,2463,Elite
+1640,SKU-1640,Furniture,11748,Prime
+1641,SKU-1641,Home Appliances,12203,Prime
+1642,SKU-1642,Grocery,487,Elite
+1643,SKU-1643,Grocery,8256,Softq
+1644,SKU-1644,Furniture,5824,Global
+1645,SKU-1645,Grocery,10335,Softq
+1646,SKU-1646,Grocery,11262,Elite
+1647,SKU-1647,Grocery,6861,Prime
+1648,SKU-1648,Clothing,1134,Nova
+1649,SKU-1649,Furniture,375,Global
+1650,SKU-1650,Clothing,3237,Global
+1651,SKU-1651,Clothing,10949,Prime
+1652,SKU-1652,Home Appliances,1571,Global
+1653,SKU-1653,Furniture,11731,Elite
+1654,SKU-1654,Grocery,1920,Nova
+1655,SKU-1655,Electronics,7041,Elite
+1656,SKU-1656,Home Appliances,9468,Global
+1657,SKU-1657,Furniture,14716,Nova
+1658,SKU-1658,Furniture,441,Nova
+1659,SKU-1659,Grocery,3808,Elite
+1660,SKU-1660,Grocery,11078,Nova
+1661,SKU-1661,Home Appliances,8788,Global
+1662,SKU-1662,Grocery,4549,Global
+1663,SKU-1663,Electronics,621,Elite
+1664,SKU-1664,Grocery,6839,Softq
+1665,SKU-1665,Home Appliances,6881,Global
+1666,SKU-1666,Grocery,239,Global
+1667,SKU-1667,Furniture,4674,Global
+1668,SKU-1668,Furniture,12057,Elite
+1669,SKU-1669,Clothing,7822,Global
+1670,SKU-1670,Grocery,14154,Global
+1671,SKU-1671,Furniture,4224,Elite
+1672,SKU-1672,Home Appliances,5282,Softq
+1673,SKU-1673,Grocery,5009,Prime
+1674,SKU-1674,Furniture,3761,Nova
+1675,SKU-1675,Grocery,4075,Elite
+1676,SKU-1676,Grocery,1004,Prime
+1677,SKU-1677,Furniture,13950,Softq
+1678,SKU-1678,Clothing,5900,Nova
+1679,SKU-1679,Home Appliances,3376,Global
+1680,SKU-1680,Grocery,7266,Softq
+1681,SKU-1681,Grocery,152,Softq
+1682,SKU-1682,Home Appliances,1366,Nova
+1683,SKU-1683,Grocery,5463,Softq
+1684,SKU-1684,Grocery,14689,Global
+1685,SKU-1685,Clothing,6907,Global
+1686,SKU-1686,Clothing,8557,Prime
+1687,SKU-1687,Clothing,2348,Elite
+1688,SKU-1688,Grocery,10546,Prime
+1689,SKU-1689,Home Appliances,4397,Global
+1690,SKU-1690,Home Appliances,9742,Elite
+1691,SKU-1691,Grocery,14629,Global
+1692,SKU-1692,Electronics,4784,Elite
+1693,SKU-1693,Grocery,4939,Softq
+1694,SKU-1694,Home Appliances,4309,Prime
+1695,SKU-1695,Home Appliances,4676,Nova
+1696,SKU-1696,Furniture,8252,Elite
+1697,SKU-1697,Furniture,9680,Nova
+1698,SKU-1698,Electronics,5507,Nova
+1699,SKU-1699,Clothing,8290,Prime
+1700,SKU-1700,Home Appliances,12133,Softq
+1701,SKU-1701,Electronics,9432,Elite
+1702,SKU-1702,Furniture,6718,Nova
+1703,SKU-1703,Electronics,6994,Elite
+1704,SKU-1704,Electronics,1515,Global
+1705,SKU-1705,Furniture,6263,Elite
+1706,SKU-1706,Electronics,6710,Nova
+1707,SKU-1707,Grocery,3506,Elite
+1708,SKU-1708,Grocery,7957,Nova
+1709,SKU-1709,Grocery,14203,Nova
+1710,SKU-1710,Grocery,1366,Elite
+1711,SKU-1711,Clothing,7173,Nova
+1712,SKU-1712,Grocery,14594,Global
+1713,SKU-1713,Grocery,7731,Softq
+1714,SKU-1714,Electronics,14575,Global
+1715,SKU-1715,Electronics,7956,Elite
+1716,SKU-1716,Furniture,6229,Prime
+1717,SKU-1717,Grocery,9267,Global
+1718,SKU-1718,Electronics,1378,Nova
+1719,SKU-1719,Home Appliances,14680,Nova
+1720,SKU-1720,Clothing,10874,Softq
+1721,SKU-1721,Clothing,3569,Elite
+1722,SKU-1722,Home Appliances,3443,Global
+1723,SKU-1723,Clothing,14907,Prime
+1724,SKU-1724,Home Appliances,1858,Softq
+1725,SKU-1725,Furniture,6423,Prime
+1726,SKU-1726,Home Appliances,1450,Global
+1727,SKU-1727,Electronics,3344,Softq
+1728,SKU-1728,Furniture,9253,Prime
+1729,SKU-1729,Grocery,2214,Prime
+1730,SKU-1730,Home Appliances,8118,Softq
+1731,SKU-1731,Grocery,1859,Global
+1732,SKU-1732,Home Appliances,7460,Softq
+1733,SKU-1733,Home Appliances,6920,Softq
+1734,SKU-1734,Electronics,8929,Global
+1735,SKU-1735,Clothing,6566,Prime
+1736,SKU-1736,Home Appliances,14915,Prime
+1737,SKU-1737,Clothing,12954,Softq
+1738,SKU-1738,Clothing,3680,Softq
+1739,SKU-1739,Home Appliances,13250,Nova
+1740,SKU-1740,Clothing,1942,Nova
+1741,SKU-1741,Clothing,4907,Nova
+1742,SKU-1742,Furniture,8683,Prime
+1743,SKU-1743,Clothing,11480,Softq
+1744,SKU-1744,Grocery,3463,Softq
+1745,SKU-1745,Home Appliances,2046,Global
+1746,SKU-1746,Grocery,2869,Nova
+1747,SKU-1747,Furniture,5449,Elite
+1748,SKU-1748,Grocery,3902,Softq
+1749,SKU-1749,Furniture,3694,Prime
+1750,SKU-1750,Home Appliances,3135,Nova
+1751,SKU-1751,Clothing,11169,Elite
+1752,SKU-1752,Clothing,1517,Nova
+1753,SKU-1753,Furniture,6569,Prime
+1754,SKU-1754,Clothing,12120,Elite
+1755,SKU-1755,Home Appliances,11978,Prime
+1756,SKU-1756,Clothing,4407,Global
+1757,SKU-1757,Electronics,8437,Elite
+1758,SKU-1758,Home Appliances,4510,Global
+1759,SKU-1759,Home Appliances,4611,Prime
+1760,SKU-1760,Grocery,13692,Softq
+1761,SKU-1761,Clothing,2717,Nova
+1762,SKU-1762,Home Appliances,6038,Softq
+1763,SKU-1763,Home Appliances,13732,Elite
+1764,SKU-1764,Grocery,8304,Nova
+1765,SKU-1765,Furniture,11433,Prime
+1766,SKU-1766,Grocery,3457,Prime
+1767,SKU-1767,Electronics,6992,Softq
+1768,SKU-1768,Electronics,12703,Prime
+1769,SKU-1769,Electronics,13815,Prime
+1770,SKU-1770,Furniture,8490,Softq
+1771,SKU-1771,Electronics,11343,Prime
+1772,SKU-1772,Furniture,13511,Elite
+1773,SKU-1773,Clothing,11577,Global
+1774,SKU-1774,Clothing,12110,Global
+1775,SKU-1775,Clothing,8265,Elite
+1776,SKU-1776,Furniture,9329,Nova
+1777,SKU-1777,Clothing,14537,Global
+1778,SKU-1778,Furniture,4279,Prime
+1779,SKU-1779,Clothing,7766,Elite
+1780,SKU-1780,Grocery,10549,Nova
+1781,SKU-1781,Furniture,1871,Softq
+1782,SKU-1782,Grocery,10762,Prime
+1783,SKU-1783,Clothing,8585,Nova
+1784,SKU-1784,Clothing,12182,Softq
+1785,SKU-1785,Clothing,7198,Elite
+1786,SKU-1786,Electronics,11084,Global
+1787,SKU-1787,Electronics,10303,Elite
+1788,SKU-1788,Furniture,10079,Prime
+1789,SKU-1789,Clothing,1307,Nova
+1790,SKU-1790,Furniture,4642,Prime
+1791,SKU-1791,Furniture,3797,Global
+1792,SKU-1792,Electronics,3012,Softq
+1793,SKU-1793,Electronics,2718,Prime
+1794,SKU-1794,Grocery,11999,Nova
+1795,SKU-1795,Clothing,3865,Global
+1796,SKU-1796,Grocery,771,Prime
+1797,SKU-1797,Electronics,5944,Softq
+1798,SKU-1798,Grocery,2194,Global
+1799,SKU-1799,Home Appliances,8314,Nova
+1800,SKU-1800,Furniture,6550,Softq
+1801,SKU-1801,Furniture,376,Prime
+1802,SKU-1802,Furniture,8564,Global
+1803,SKU-1803,Home Appliances,8532,Global
+1804,SKU-1804,Home Appliances,7834,Nova
+1805,SKU-1805,Electronics,6759,Elite
+1806,SKU-1806,Electronics,6465,Prime
+1807,SKU-1807,Home Appliances,680,Global
+1808,SKU-1808,Furniture,5937,Prime
+1809,SKU-1809,Home Appliances,10913,Global
+1810,SKU-1810,Furniture,6501,Global
+1811,SKU-1811,Grocery,5887,Elite
+1812,SKU-1812,Furniture,5696,Prime
+1813,SKU-1813,Furniture,6182,Prime
+1814,SKU-1814,Grocery,11259,Elite
+1815,SKU-1815,Electronics,13096,Global
+1816,SKU-1816,Electronics,11659,Prime
+1817,SKU-1817,Electronics,13051,Softq
+1818,SKU-1818,Grocery,10508,Global
+1819,SKU-1819,Grocery,3134,Elite
+1820,SKU-1820,Electronics,3902,Nova
+1821,SKU-1821,Clothing,14695,Softq
+1822,SKU-1822,Electronics,12657,Global
+1823,SKU-1823,Home Appliances,5352,Global
+1824,SKU-1824,Electronics,11743,Global
+1825,SKU-1825,Furniture,13721,Elite
+1826,SKU-1826,Clothing,13723,Nova
+1827,SKU-1827,Clothing,3396,Nova
+1828,SKU-1828,Grocery,14038,Elite
+1829,SKU-1829,Clothing,14530,Softq
+1830,SKU-1830,Clothing,4805,Nova
+1831,SKU-1831,Furniture,10128,Nova
+1832,SKU-1832,Home Appliances,13345,Global
+1833,SKU-1833,Furniture,5197,Softq
+1834,SKU-1834,Home Appliances,6893,Prime
+1835,SKU-1835,Furniture,14068,Elite
+1836,SKU-1836,Home Appliances,10507,Elite
+1837,SKU-1837,Clothing,8993,Global
+1838,SKU-1838,Clothing,6383,Softq
+1839,SKU-1839,Home Appliances,9307,Prime
+1840,SKU-1840,Home Appliances,4523,Elite
+1841,SKU-1841,Electronics,10688,Nova
+1842,SKU-1842,Furniture,11440,Softq
+1843,SKU-1843,Grocery,14118,Prime
+1844,SKU-1844,Clothing,9679,Nova
+1845,SKU-1845,Home Appliances,11543,Prime
+1846,SKU-1846,Furniture,1704,Elite
+1847,SKU-1847,Electronics,3410,Nova
+1848,SKU-1848,Electronics,2774,Nova
+1849,SKU-1849,Grocery,11766,Elite
+1850,SKU-1850,Home Appliances,5359,Global
+1851,SKU-1851,Home Appliances,7876,Elite
+1852,SKU-1852,Clothing,3877,Prime
+1853,SKU-1853,Home Appliances,3356,Elite
+1854,SKU-1854,Electronics,10860,Global
+1855,SKU-1855,Grocery,8902,Nova
+1856,SKU-1856,Furniture,11538,Nova
+1857,SKU-1857,Clothing,6579,Elite
+1858,SKU-1858,Grocery,6727,Elite
+1859,SKU-1859,Clothing,11479,Elite
+1860,SKU-1860,Clothing,1789,Softq
+1861,SKU-1861,Grocery,3692,Global
+1862,SKU-1862,Furniture,13223,Nova
+1863,SKU-1863,Grocery,13875,Nova
+1864,SKU-1864,Furniture,3261,Elite
+1865,SKU-1865,Home Appliances,7421,Softq
+1866,SKU-1866,Electronics,13190,Prime
+1867,SKU-1867,Home Appliances,11597,Global
+1868,SKU-1868,Grocery,2129,Softq
+1869,SKU-1869,Home Appliances,5398,Nova
+1870,SKU-1870,Furniture,1750,Softq
+1871,SKU-1871,Grocery,7084,Global
+1872,SKU-1872,Furniture,2487,Prime
+1873,SKU-1873,Home Appliances,2282,Softq
+1874,SKU-1874,Clothing,9848,Softq
+1875,SKU-1875,Clothing,5728,Nova
+1876,SKU-1876,Electronics,7843,Elite
+1877,SKU-1877,Grocery,303,Elite
+1878,SKU-1878,Home Appliances,12916,Global
+1879,SKU-1879,Electronics,13786,Nova
+1880,SKU-1880,Home Appliances,9467,Softq
+1881,SKU-1881,Grocery,10763,Nova
+1882,SKU-1882,Grocery,13296,Nova
+1883,SKU-1883,Grocery,120,Softq
+1884,SKU-1884,Grocery,10203,Nova
+1885,SKU-1885,Grocery,1155,Softq
+1886,SKU-1886,Grocery,7620,Softq
+1887,SKU-1887,Electronics,6895,Elite
+1888,SKU-1888,Electronics,14868,Elite
+1889,SKU-1889,Furniture,7597,Prime
+1890,SKU-1890,Clothing,4835,Elite
+1891,SKU-1891,Electronics,5787,Softq
+1892,SKU-1892,Furniture,8672,Prime
+1893,SKU-1893,Electronics,14642,Global
+1894,SKU-1894,Furniture,13794,Prime
+1895,SKU-1895,Grocery,13209,Global
+1896,SKU-1896,Home Appliances,2676,Elite
+1897,SKU-1897,Electronics,2994,Nova
+1898,SKU-1898,Clothing,10908,Elite
+1899,SKU-1899,Electronics,12514,Elite
+1900,SKU-1900,Clothing,6753,Nova
+1901,SKU-1901,Furniture,8243,Prime
+1902,SKU-1902,Electronics,5585,Prime
+1903,SKU-1903,Grocery,3770,Prime
+1904,SKU-1904,Home Appliances,8070,Softq
+1905,SKU-1905,Home Appliances,11273,Nova
+1906,SKU-1906,Home Appliances,8096,Elite
+1907,SKU-1907,Grocery,12915,Prime
+1908,SKU-1908,Clothing,7088,Elite
+1909,SKU-1909,Electronics,1722,Softq
+1910,SKU-1910,Furniture,5953,Nova
+1911,SKU-1911,Home Appliances,2220,Prime
+1912,SKU-1912,Electronics,3081,Global
+1913,SKU-1913,Clothing,3742,Nova
+1914,SKU-1914,Grocery,3314,Nova
+1915,SKU-1915,Electronics,3324,Global
+1916,SKU-1916,Furniture,3958,Global
+1917,SKU-1917,Electronics,11649,Softq
+1918,SKU-1918,Grocery,972,Elite
+1919,SKU-1919,Grocery,8594,Prime
+1920,SKU-1920,Home Appliances,11534,Softq
+1921,SKU-1921,Furniture,745,Prime
+1922,SKU-1922,Furniture,373,Nova
+1923,SKU-1923,Home Appliances,1325,Prime
+1924,SKU-1924,Clothing,12751,Softq
+1925,SKU-1925,Grocery,1787,Softq
+1926,SKU-1926,Furniture,13964,Nova
+1927,SKU-1927,Grocery,4979,Nova
+1928,SKU-1928,Home Appliances,11491,Prime
+1929,SKU-1929,Home Appliances,12588,Elite
+1930,SKU-1930,Electronics,7809,Global
+1931,SKU-1931,Electronics,6195,Nova
+1932,SKU-1932,Grocery,3742,Prime
+1933,SKU-1933,Furniture,5603,Softq
+1934,SKU-1934,Grocery,1045,Softq
+1935,SKU-1935,Furniture,2610,Global
+1936,SKU-1936,Home Appliances,8317,Prime
+1937,SKU-1937,Electronics,14045,Softq
+1938,SKU-1938,Home Appliances,6966,Nova
+1939,SKU-1939,Electronics,367,Softq
+1940,SKU-1940,Electronics,6966,Global
+1941,SKU-1941,Home Appliances,10530,Softq
+1942,SKU-1942,Clothing,5307,Global
+1943,SKU-1943,Home Appliances,6366,Prime
+1944,SKU-1944,Grocery,7425,Prime
+1945,SKU-1945,Furniture,10645,Global
+1946,SKU-1946,Furniture,5940,Global
+1947,SKU-1947,Electronics,11057,Elite
+1948,SKU-1948,Electronics,3141,Nova
+1949,SKU-1949,Clothing,1232,Softq
+1950,SKU-1950,Electronics,7363,Nova
+1951,SKU-1951,Grocery,11246,Elite
+1952,SKU-1952,Clothing,7209,Elite
+1953,SKU-1953,Electronics,8762,Nova
+1954,SKU-1954,Electronics,13666,Nova
+1955,SKU-1955,Electronics,1538,Prime
+1956,SKU-1956,Grocery,2192,Global
+1957,SKU-1957,Electronics,13514,Prime
+1958,SKU-1958,Home Appliances,949,Global
+1959,SKU-1959,Home Appliances,5155,Global
+1960,SKU-1960,Clothing,9587,Elite
+1961,SKU-1961,Home Appliances,9801,Nova
+1962,SKU-1962,Electronics,10843,Softq
+1963,SKU-1963,Electronics,13311,Elite
+1964,SKU-1964,Electronics,10027,Global
+1965,SKU-1965,Grocery,8121,Elite
+1966,SKU-1966,Home Appliances,10050,Softq
+1967,SKU-1967,Home Appliances,9376,Softq
+1968,SKU-1968,Furniture,14613,Global
+1969,SKU-1969,Furniture,10694,Softq
+1970,SKU-1970,Furniture,11576,Prime
+1971,SKU-1971,Clothing,10452,Global
+1972,SKU-1972,Clothing,14495,Nova
+1973,SKU-1973,Furniture,2462,Global
+1974,SKU-1974,Furniture,7279,Elite
+1975,SKU-1975,Furniture,1139,Prime
+1976,SKU-1976,Electronics,12752,Nova
+1977,SKU-1977,Grocery,4494,Softq
+1978,SKU-1978,Electronics,9875,Nova
+1979,SKU-1979,Furniture,11405,Elite
+1980,SKU-1980,Clothing,12087,Elite
+1981,SKU-1981,Electronics,12849,Softq
+1982,SKU-1982,Grocery,12659,Nova
+1983,SKU-1983,Clothing,9476,Prime
+1984,SKU-1984,Clothing,10750,Softq
+1985,SKU-1985,Home Appliances,12469,Nova
+1986,SKU-1986,Grocery,3068,Global
+1987,SKU-1987,Grocery,8027,Prime
+1988,SKU-1988,Home Appliances,11202,Elite
+1989,SKU-1989,Furniture,3113,Softq
+1990,SKU-1990,Grocery,12508,Prime
+1991,SKU-1991,Home Appliances,7497,Softq
+1992,SKU-1992,Clothing,11305,Nova
+1993,SKU-1993,Furniture,4107,Global
+1994,SKU-1994,Grocery,2352,Prime
+1995,SKU-1995,Clothing,11522,Nova
+1996,SKU-1996,Clothing,8762,Elite
+1997,SKU-1997,Furniture,2587,Prime
+1998,SKU-1998,Furniture,4681,Softq
+1999,SKU-1999,Electronics,4602,Global
+2000,SKU-2000,Furniture,9208,Elite
